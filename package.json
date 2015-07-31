@@ -1,0 +1,25 @@
+{
+  "name": "codemania.github.io",
+  "version": "0.0.1",
+  "description": "Public site for Codemania",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "~3.9.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitbucket.org:codemania/codemania.github.io.git"
+  },
+  "author": "Ian Randall",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codemania/codemania.github.io/issues"
+  },
+  "homepage": "https://github.com/codemania/codemania.github.io"
+}
