@@ -64,3 +64,8 @@ p {
 #menu a:active {
   color: #ffdb0a;
 }
+img.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
