@@ -10,7 +10,7 @@ years: ['2012', '2013', '2014', '2015']
 	{% for year in page.years %}
 	<div class="pure-u-1-4">
 		<a href="/{{year}}/index.html">
-			<h1 class="center">{{year}}</h1>
+			<h1 class="center lunchBox huge">{{year}}</h1>
 		</a>
 	</div>
 	{% endfor %}
