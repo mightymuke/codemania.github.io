@@ -54,14 +54,16 @@ p {
   font-size: 1.5em;
   padding-left: 15px;
   padding-right: 15px;
-  color: #92b6b0;
-  text-decoration: none;
 }
 #menu a .large {
   font-size: 24px;
 }
-#menu a:hover,
-#menu a:active {
+a {
+  color: #92b6b0;
+  text-decoration: none;
+}
+a:hover,
+a:active {
   color: #ffdb0a;
 }
 .center {
