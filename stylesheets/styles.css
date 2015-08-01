@@ -10,6 +10,9 @@
   font-weight: normal;
   font-style: normal;
 }
+.lunchBox .large {
+  font-size: 3em;
+}
 .lunchBox .huge {
   font-size: 4em;
 }
