@@ -1,6 +1,7 @@
 ---
-layout: default
-title: Codemania 2012 - Where it all began
+layout: speakerList
+title: Codemania 2013 - Braaaaiinnssss....
+year: 2013
+speakers: [gblock, pjf]
 ---
 
-## Speaker list

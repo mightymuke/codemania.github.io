@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Codemania 2012 - Where it all began
+layout: speakerList
+title: Codemania 2014 - Pirates! Yarrrrrrghhh
+year: 2014
+speakers: [shanselman, leaverou]
 ---
-
-## Speaker list
