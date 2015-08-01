@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<div class="pure-g">
+
+	{% for speaker in page.speakers %}
+	<div class="pure-u-1-1">
+		<a href="/{{page.year}}/{{speaker}}.html">
+			<h1 class="center lunchBox large">{{speaker}}</h1>
+		</a>
+	</div>
+	{% endfor %}
+
+</div>
