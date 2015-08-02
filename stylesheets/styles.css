@@ -78,3 +78,9 @@ a:active {
   margin-right: auto;
   text-align: center;
 }
+.centerStage {
+  margin: 0 20%;
+}
+.bottomGutter {
+  margin-bottom: 45px;
+}
