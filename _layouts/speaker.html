@@ -2,13 +2,18 @@
 layout: default
 ---
 
-<div class="pure-u">
-
-	<div class="pure-g-1-1">
+<div class="pure-g centerStage">
+	<div class="pure-u-1">
 		<h1>{{ page.speakerName }}</h1>
 	</div>
-	<div class="pure-g-1-1">
+	<div class="pure-u-1">
 		<p>{{ page.speakerBio }}</p>
 	</div>
-
+	{% for talk in page.talks %}
+	<div class="pure-u-1 bottomGutter">
+		<h3>{{ talk.title }}</h3>
+		<p>{{ talk.abstract }}</p>
+		<iframe width="560" height="315" src="{{talk.link}}" frameborder="0" allowfullscreen></iframe>
+	</div>	
+	{% endfor %}
 </div>
