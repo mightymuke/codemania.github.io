@@ -1,0 +1,7 @@
+---
+layout: speaker
+speakerName: Richard Easther
+speakerBio: Richard recently returned to New Zealand after 17 years working in Japan and the United States. He is now a Professor and Head of Department of Physics at the University of Auckland. His research focusses on the properties of very early universe, exploring the origin of our universe and the fundamental forces of nature. Some of his work involves traditional traditional "pencil and paper" calculations, but much of it involves numerical and data-analysis problems that are tackled with High Performance Computing resources.
+speakerImage: 2012/speaker_richard.jpg
+talks: [{ title: "Shocking Tales of (un)Scientific Computing", abstract: "Every year, hundreds of millions of dollars are spent on high performance computing worldwide, but many of the scientists who do the computing have surprisingly little (a technical way of saying 'none') formal training in computer science and IT. Is it that scientists are so smart that they don't need to RTFM, or could they could learn a thing or two from professional coders? Richard will outline the current state of High Performance Computing (in New Zealand and elsewhere) and then tell you what you know, but that a lot of scientists don't." }]
+---
