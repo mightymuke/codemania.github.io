@@ -1,8 +1,18 @@
 ---
 layout: default
+years: [2012, 2013, 2014, 2015]
 ---
 
 <div class="pure-g">
+
+	{% for year in page.years %}
+	<div class="pure-u-1-4">
+		<a href="/{{year}}/index.html" {% if page.year == year %} class="selected" {% endif %}>
+			<h1 class="center lunchBox huge">{{year}}</h1>
+		</a>
+	</div>
+	{% endfor %}
+
 
 	{% for speaker in page.speakers %}
 	<div class="pure-u-1-3">

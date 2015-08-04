@@ -72,6 +72,9 @@ a:hover,
 a:active {
   color: #ffdb0a;
 }
+a.selected {
+  color: #ffdb0a;
+}
 .center {
   display: block;
   margin-left: auto;
