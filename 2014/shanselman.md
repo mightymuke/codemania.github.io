@@ -1,0 +1,7 @@
+---
+layout: speaker
+speakerName: Scott Hanselman
+speakerBio: Scott is a web developer who has been blogging at <a href='http://hanselman.com'>http://hanselman.com</a> for over a decade. He works in Open Source on ASP.NET and the Azure Cloud for Microsoft out of his home office in Portland, Oregon.</p><p>Scott has three podcasts, <a href='http://hanselminutes.com'>http://hanselminutes.com</a> for tech talk, <a href='http://thisdeveloperslife.com'>http://thisdeveloperslife.com</a> on developers' lives and loves, and <a href='http://ratchetandthegeek.com'>http://ratchetandthegeek.com</a> for pop culture and tech media.</p><p>He's written a number of books and spoken in person to almost a half million developers worldwide.
+speakerImage: 2014/scott-hanselman.png
+talks: [{ title: "Angle Brackets, Curly Braces, JavaScript & Assembler", abstract: "One day we woke up and things were different. Maybe it happened overnight, maybe it took many years. Suddenly we are scripting against thousands of Virtual Machines from the command line while creating things today with JavaScript in the browser that were impossible yesterday. LiveScript becomes JavaScript becomes ES6 and now we’re compiling C++ to JS. Join Scott Hanselman as he explores the relationship between the Cloud and the Browser, many Languages and one Language, how it might all fit together and what might come next.", link: 'https://www.youtube.com/embed/k0e7R3fsdKM' }]
+---
