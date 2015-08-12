@@ -1,0 +1,7 @@
+---
+layout: speaker
+speakerName: Nic Wise
+speakerBio: Nic Wise worked in the mobile space before it was cool (which was also before it made either money or sense). He has worked on a wide variety of projects from websites to warehousing, point-of-sale to email archiving, and gets a kick out of other people using apps he's written.</p><p>Nic is a Xamarin MVP and has spoken at conferences and events in NZ, UK and the USA. He's back in New Zealand after a six-year stint of expat life in London.</p><p>When he's not coding, Nic can usually be found fairly close to a beach, an espresso or a bicycle... or better still, all three.
+speakerImage: 2014/nic-wise.png
+talks: [{ title: "Native, Crossplatform, Mobile", abstract: "Think the only way to do cross platform mobile development is using HTML5? Or worse, write everything twice?</p><p>Think again, it's C# to the rescue. C# is in the middle of a renaissance on mobile, thanks to the Xamarin toolset. Based around the Mono project, the Xamarin tools let you write applications for both iOS and Android - allowing you to share the common bits of your application, while keeping the platform specific bits unique. Combine that with the extensive .NET frameworks and you have a powerful combination for building state of the art mobile apps.</p><p>In this session, we'll explore some of the options available at the moment, why write-once-run-anywhere is a myth, and go a bit deeper to see just how it's done.", link: 'https://www.youtube.com/embed/i8FO4kMwMYw' }]
+---
