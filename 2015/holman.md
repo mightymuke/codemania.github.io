@@ -2,6 +2,6 @@
 layout: speaker
 speakerName: Zach Holman
 speakerBio: Zach joined <a href='https://github.com/'>GitHub</a> in 2010 as one of their first engineering hires. Initially working on what would become GitHub Enterprise, he now hacks on new features and frequently <a href='http://zachholman.com/talks'>gives talks</a> about building products and growing startups. He also writes about public speaking on <a href='http://speaking.io/'>speaking.io</a>.
-speakerImage: 2015/xxxx.jpg
+speakerImage: 2015/zach-holman.png
 talks: [{ title: "The Talk on Talks", abstract: "Most people are scared to present at a conference, or a meetup, or at a company meeting. Public speaking is a common fear, and many find themselves at night waking up from nightmares involving a disastrous speech. All too often, people think public speaking is something to be afraid of.</p><p>THEY'RE TOTALLY RIGHT OH MY GOD PUBLIC SPEAKING IS ONE OF THE MOST STRESSFUL THINGS YOURE EVER GOING TO DO PLEASE HIDE AND AVOID ALL HUMANS AND STRANGER DANGER</p><p>Now, that said, sometimes you're stuck. You can't very well turn down the speech at your best friend's wedding now, can you? Or maybe you can because secretly you don't like your friend as much as they think you do. You meanie.</p><p>The best public speakers are as nervous as you are. They've just done it before, and they all do certain things much better than you. But you can change that. It's an extremely learnable skill.</p><p>That's what this talk is all about..", link: 'https://www.youtube.com/embed/' }]
 ---
