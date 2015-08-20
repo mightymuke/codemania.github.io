@@ -1,0 +1,7 @@
+---
+layout: speaker
+speakerName: Kelsey Gilmore-Innis
+speakerBio: Kelsey Gilmore-Innis is a back-end engineer at PagerDuty, where she uses Scala & functional programming to build powerful, scalable software systems that consistently wake you up in the middle of the night (when they’re supposed to, any way.) She cofounded the <a href='http://www.lambdaladies.com/'>Lambda Ladies</a> group for women in functional programming and strives, with her fellow Lambda Ladies, to write code with charisma, uniqueness, nerve and talent.
+speakerImage: 2015/xxxx.jpg
+talks: [{ title: "Some Things Never Change: Immutable Data in the Real World", abstract: "Concurrency: it’s way easier when values don’t change. True fact! But what else can we gain from making our data immutable? Let’s look at the benefits and tradeoffs--beyond concurrency--of applying the concept of immutability to real world programs.</p><p>We'll start by looking at the history of immutability in programming and examine ways it can reduce our cognitive burden and improve readability. We'll discuss some elegant and counter-intuitive outcomes of functional data structures that take advantage of immutable data. With those in mind, we’ll take a hard look at the performance of implementations of immutable collections in real-world programming languages. Finally, we'll explore frameworks do exciting things with immutable data, from the database level (append-only DBs) to data processing (Summingbird) to front-end development (Facebook’s React & Om).", link: 'https://www.youtube.com/embed/' }]
+---

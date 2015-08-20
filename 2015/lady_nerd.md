@@ -1,0 +1,7 @@
+---
+layout: speaker
+speakerName: Laura Bell
+speakerBio: Laura Bell is an application security specialist. A reformed software developer and penetration tester she has spent most of the past decade doing bad things to nice people's code. Now she runs SafeStack, a specialist security consultancy that aims to help developers like you protect themselves and their creations online from people like her. An amateur python developer, known troublemaker and occasional gamer, Laura lives in Auckland, New Zealand with her husband and daughter.
+speakerImage: 2015/xxxx.jpg
+talks: [{ title: "Security skills for the adventurous developer", abstract: "So the internet is an evil place filled with terrible people who want to do you and your beautiful code creations harm?</p><p>Oh dear..so what now?</p><p>Knowing that you need to care about security is an awesome first step on your adventure but sometimes you need a little extra help knowing what to do about it. Let's go on that adventure together. Let's learn how to change the way we approach software development to bring security in from the beginning. In this talk I will teach you essential skills to develop amazing secure software, without getting in the way of the crazy innovation and creativity that leads to wonderful applications.</p><p>Think of this talk as security survival skills for awesome developers - just like you.", link: 'https://www.youtube.com/embed/' }]
+---
