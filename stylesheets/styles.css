@@ -94,9 +94,9 @@ a.selected {
     height: auto !important;
   }
   .lunchBox .large {
-    font-size: 1em;
+    font-size: 1.5em;
   }
   .lunchBox .huge {
-    font-size: 1.5em;
+    font-size: 2em;
   }
 }
