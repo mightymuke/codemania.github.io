@@ -13,6 +13,9 @@
 .lunchBox .large {
   font-size: 3em;
 }
+.lunchBox .extraLarge {
+  font-size: 4em;
+}
 .lunchBox .huge {
   font-size: 4em;
 }
@@ -87,7 +90,14 @@ a.selected {
 .breathingSpace {
   margin-top: 45px;
 }
-@media screen and (max-width: 750px) {
+@media screen and (max-width: 48em) {
+  #menu a {
+    padding: 0;
+  }
+  #menu ul {
+    margin: 0 0 0 50px;
+    width: auto;
+  }
   iframe {
     max-width: 100% !important;
     width: auto !important;
@@ -96,7 +106,10 @@ a.selected {
   .lunchBox .large {
     font-size: 1.5em;
   }
-  .lunchBox .huge {
+  .lunchBox .extraLarge {
     font-size: 2em;
+  }
+  .lunchBox .huge {
+    font-size: 2.5em;
   }
 }
