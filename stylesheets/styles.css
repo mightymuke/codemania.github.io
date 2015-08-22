@@ -98,6 +98,9 @@ a.selected {
     margin: 0 0 0 50px;
     width: auto;
   }
+  img {
+    width: 90%;
+  }
   iframe {
     max-width: 100% !important;
     width: auto !important;
