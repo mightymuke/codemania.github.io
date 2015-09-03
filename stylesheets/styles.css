@@ -85,17 +85,21 @@ a.selected {
   text-align: center;
 }
 .luchanaut {
-  position: relative;
+  animation: float 2s ease-in-out infinite alternate;
+}
+@keyframes float {
+  0% {
+    transform: translateY(10px);
+  }
+  100% {
+    transform: translateY(-10px);
+  }
 }
 .stars {
   position: absolute;
   top: 0;
   left: 0;
   z-index: -10;
-}
-.announcementText {
-  color: white;
-  font-size: 3em;
 }
 .centerStage {
   margin: 0 20%;
