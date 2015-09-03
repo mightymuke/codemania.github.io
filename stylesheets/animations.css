@@ -1,0 +1,16 @@
+
+.luchanaut {
+   -webkit-animation: float 2s ease-in-out infinite alternate;
+   animation: float 2s ease-in-out infinite alternate;
+}
+
+@keyframes float {
+	0% {
+		-webkit-transform: translateY(10px);
+		transform: translateY(10px);
+	}
+	100% {
+		-webkit-transform: transform: translateY(-10px);
+		transform: translateY(-10px);
+	}
+}
