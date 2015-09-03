@@ -10,7 +10,7 @@
 		transform: translateY(10px);
 	}
 	100% {
-		-webkit-transform: transform: translateY(-10px);
+		-webkit-transform: translateY(-10px);
 		transform: translateY(-10px);
 	}
 }
