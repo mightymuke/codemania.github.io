@@ -1,6 +1,5 @@
 ---
-layout: default
-title: Codemania 2016
+layout: 2016site
 ---
 
 <div class="pure-g">
