@@ -146,3 +146,8 @@ a.selected {
     font-size: 2.5em;
   }
 }
+.asteroid {
+  margin-left: 10%;
+  margin-top: -270px;
+  width: 30%;
+}
