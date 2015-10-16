@@ -51,7 +51,7 @@ p {
   position: fixed;
   text-align: center;
   z-index: 9998;
-  opacity: .95;
+  opacity: .45;
   height: 100px;
   width: 100%;
   background: url('../images/header-bg.png') repeat-x;
