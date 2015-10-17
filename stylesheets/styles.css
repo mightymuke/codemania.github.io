@@ -129,6 +129,14 @@ a.selected {
 .breathingSpace {
   margin-top: 45px;
 }
+.asteroid {
+  margin-left: 10%;
+  margin-top: -270px;
+  width: 30%;
+}
+.nav li a {
+  color: gold;
+}
 @media screen and (max-width: 48em) {
   #menu a {
     padding: 0;
@@ -154,9 +162,7 @@ a.selected {
   .lunchBox .huge {
     font-size: 2.5em;
   }
-}
-.asteroid {
-  margin-left: 10%;
-  margin-top: -270px;
-  width: 30%;
+  .asteroid {
+    visibility: hidden;
+  }
 }
