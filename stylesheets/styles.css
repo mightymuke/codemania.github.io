@@ -134,9 +134,6 @@ a.selected {
   margin-top: -270px;
   width: 30%;
 }
-.nav li a {
-  color: gold;
-}
 @media screen and (max-width: 48em) {
   #menu a {
     padding: 0;
