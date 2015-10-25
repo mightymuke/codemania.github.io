@@ -64,7 +64,15 @@ p {
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-default .navbar-brand > li > a:hover,
 .navbar-default .navbar-nav > .active > a:hover,
-.navbar-default .navbar-default .navbar-brand > .active > a:hover {
+.navbar-default .navbar-default .navbar-brand > .active > a:hover,
+.navbar-default .navbar-nav > li > a:active,
+.navbar-default .navbar-default .navbar-brand > li > a:active,
+.navbar-default .navbar-nav > .active > a:active,
+.navbar-default .navbar-default .navbar-brand > .active > a:active,
+.navbar-default .navbar-nav > li > a:focus,
+.navbar-default .navbar-default .navbar-brand > li > a:focus,
+.navbar-default .navbar-nav > .active > a:focus,
+.navbar-default .navbar-default .navbar-brand > .active > a:focus {
   color: #ffdb0a;
 }
 @media (min-width: 768px) {
@@ -96,7 +104,8 @@ p {
   margin-left: -90px;
 }
 .titleImage {
-  width: 200px;
+  height: 60px;
+  width: auto;
   display: block;
   margin: 0 auto;
 }
@@ -207,6 +216,9 @@ p {
     margin: 60px auto 0 10px;
     width: 100%;
     display: block;
+  }
+  .titleImage {
+    height: 30px;
   }
   .buytickets {
     margin: 50px 0 0 -30px;

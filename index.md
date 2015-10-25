@@ -23,7 +23,7 @@ layout: default
     </div>
       <!-- 8/12 width column on medium and small screens, 9/12 width on x-small -->
       <div class="col-md-8 col-sm-8 col-xs-9">
-        <img src="/images/2016/masthead.svg" class="masthead" />
+        <img src="/images/2016/masthead.svg" class="masthead" id="masthead" />
       </div>
       <div class="col-md-2 col-sm-2 col-xs-3">
         <img src="/images/2016/buy-tickets.svg" class="buytickets" />
@@ -34,23 +34,23 @@ layout: default
     </div>
     <div class="row">
       <div class="col-md-10 col-md-offset-1 col-xs-12">
-        <img src="/images/2016/title_speakers.svg" class="titleImage" />
+        <img src="/images/2016/title_speakers.png" class="titleImage" id="speakers"/>
         <div><p>Speakers go here</p></div>
       </div>
     </div>
     <div class="row">
       <div class="col-md-10 col-md-offset-1 col-xs-12">
-        <h1>ABOUT</h1>
+        <img src="/images/2016/title_about.png" class="titleImage" id="about" />
       </div>
     </div>
     <div class="row">
       <div class="col-md-10 col-md-offset-1 col-xs-12">
-        <h1>TICKETS</h1>
+        <img src="/images/2016/title_tickets.png" class="titleImage" id="tickets" />
       </div>
     </div>
     <div class="row">
       <div class="col-md-10 col-md-offset-1 col-xs-12">
-        <h1>SPONSORS</h1>
+        <img src="/images/2016/title_sponsors.png" class="titleImage" id="sponsors" />
       </div>
     </div>
   </div>
