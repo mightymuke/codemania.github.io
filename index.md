@@ -34,7 +34,8 @@ layout: default
     </div>
     <div class="row">
       <div class="col-md-10 col-md-offset-1 col-xs-12">
-        <h1>SPEAKERS</h1>
+        <img src="/images/2016/title_speakers.svg" class="titleImage" />
+        <div><p>Speakers go here</p></div>
       </div>
     </div>
     <div class="row">

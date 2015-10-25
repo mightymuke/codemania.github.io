@@ -95,6 +95,11 @@ p {
   margin-top: 50px;
   margin-left: -90px;
 }
+.titleImage {
+  width: 200px;
+  display: block;
+  margin: 0 auto;
+}
 .luchanaut {
   -webkit-animation: float 2s ease-in-out infinite alternate;
   animation: float 2s ease-in-out infinite alternate;
