@@ -7,55 +7,35 @@ p {
     font-size: 1.3em;
 }
 
-#menu {
-	position: absolute;
-	top: 0px;
-    right: 0px;
-    position: fixed;
-    text-align: center;
-    z-index:9998;
-    opacity: .45;
-    height: 100px;
-    width: 100%;
-    background: url('../images/header-bg.png') repeat-x;
+.navbar-default {
+    background-color: #000000;
+}
+
+.navbar-default .navbar-nav, .navbar-default .navbar-brand {
     color: @menuText;
+    font-weight: bold;
+    font-size: 1.2em;
 
-    ul {
-        margin: 0;
-        padding: 0;
-
-        width: 900px;
-        margin: 3px auto 0 auto;
-    }
-
-    li {
-        font-size: 1.5em;
-        list-style: none;
-        display: inline;
-        padding-right: 50px;
-    }
-
-    a {
-        font-size: 1.5em;
-        padding-left: 15px;
-        padding-right: 15px;
-
-        .large {
-            font-size: 24px;
+    >.active {
+        >a {
+            color: @menuText;
         }
+    }
+    >li>a {
+        color: @menuText;
     }
 }
 
-a {
-    color: @menuText;
-    text-decoration: none;
-
-    &:hover, &:active {
-        color: @menuTextActive;
-    }
-
-    &.selected {
-        color: @menuTextActive;
+@media (min-width: 768px) {
+    .navbar {
+        .navbar-nav {
+            display: inline-block;
+            float: none;
+            vertical-align: top;
+        }
+            .navbar-collapse {
+            text-align: center;
+        }
     }
 }
 
