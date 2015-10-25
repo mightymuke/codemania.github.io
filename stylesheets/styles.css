@@ -38,22 +38,27 @@
   font-weight: 700;
   font-style: normal;
 }
+.oswald-light {
+  font-family: 'Oswald', sans-serif;
+  font-weight: 200;
+  font-style: normal;
+}
 body {
   background-color: #35267B;
-  color: #FC008B;
-}
-p {
-  font-size: 1.3em;
+  color: #DBD3EB;
+  font-size: 24pt;
+  line-height: 26pt;
 }
 .navbar-default {
   background-color: rgba(0, 0, 0, 0.2);
   border-color: rgba(0, 0, 0, 0.2);
+  border: none;
+  font-size: 0.8em;
 }
 .navbar-default .navbar-nav,
 .navbar-default .navbar-default .navbar-brand {
   color: #FC008B;
   font-weight: bold;
-  font-size: 1.2em;
 }
 .navbar-default .navbar-nav > li > a,
 .navbar-default .navbar-default .navbar-brand > li > a,
@@ -80,6 +85,10 @@ p {
     display: inline-block;
     float: none;
     vertical-align: top;
+  }
+  .navbar .navbar-nav > li > a {
+    padding-top: 20px;
+    padding-bottom: 30px;
   }
   .navbar .navbar-collapse {
     text-align: center;
@@ -122,6 +131,12 @@ p {
   position: absolute;
   right: 0px;
   top: 280px;
+}
+.luchanaut3 {
+  -webkit-animation: float 1s ease-in-out infinite alternate;
+  animation: float 6s ease-in-out infinite alternate;
+  width: 130%;
+  margin-left: -30px;
 }
 .parallax {
   perspective: 300px;
@@ -212,6 +227,10 @@ p {
   top: 200px;
 }
 @media (max-width: 768px) {
+  body {
+    font-size: 14pt;
+    line-height: 15pt;
+  }
   .masthead {
     margin: 60px auto 0 10px;
     width: 100%;
