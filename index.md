@@ -17,10 +17,13 @@ layout: default
   </div>
   <div class="parallax__layer parallax__layer--base">
     <div class="row">
-      <!-- Column 10-wide (of 12), offset by 1 (of 12). Or, just 12 of 12 on mobile ("xs" screens) -->
-      <div class="col-md-10 col-md-offset-1 col-xs-12">
+      <!-- Column 8-wide (of 12), offset by 1 (of 12). Or, just 12 of 12 on mobile ("xs" screens) -->
+      <div class="col-md-8 col-md-offset-1 col-sm-8 col-sm-offset-1 col-xs-9">
         <img src="/images/2016/masthead.svg" class="masthead" />
         <img src="/images/2016/luchanaut_1.svg" class="luchanaut" />
+      </div>
+      <div class="col-md-2 col-sm-2 col-xs-3">
+        <img src="/images/2016/buy-tickets.svg" class="buytickets" />
       </div>
     </div>
     <div class="row">

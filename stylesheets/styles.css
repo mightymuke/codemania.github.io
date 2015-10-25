@@ -87,10 +87,14 @@ p {
   padding: 0;
 }
 .masthead {
-  width: 700px;
-  margin-left: 150px;
+  width: 95%;
   margin-top: 70px;
   z-index: 100;
+}
+.buytickets {
+  width: 125%;
+  margin-top: 50px;
+  margin-left: -90px;
 }
 .parallax {
   perspective: 300px;
@@ -193,8 +197,13 @@ p {
     display: none;
   }
   .masthead {
-    margin: 60px auto 0 auto;
-    width: 80%;
+    margin: 60px auto 0 10px;
+    width: 100%;
+    display: block;
+  }
+  .buytickets {
+    margin: 50px 0 0 -30px;
+    width: 130%;
     display: block;
   }
   .space-object {
