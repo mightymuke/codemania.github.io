@@ -4,6 +4,7 @@ layout: default
 <div class="parallax">
   <div class="parallax__layer parallax__layer--back">
     <div class="stars"></div>
+    <img src="/images/2016/alien_1.svg" class="alien1 space-object" />
   </div>
   <div class="parallax__layer parallax__layer--deep">
     <div class="stars-deep"></div>
@@ -14,6 +15,7 @@ layout: default
     <img src="/images/2016/asteroid.svg" class="asteroid1 space-object" />
     <img src="/images/2016/swirl_2.svg" class="swirl2 space-object" />
     <img src="/images/2016/planet_1.svg" class="planet1 space-object" />
+    <img src="/images/2016/shuttle_3.svg" class="shuttle3 space-object" />
   </div>
   <div class="parallax__layer parallax__layer--base">
     <div class="row">
