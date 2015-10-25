@@ -45,18 +45,22 @@ body {
 p {
   font-size: 1.3em;
 }
+.navbar-default {
+  background-color: rgba(0, 0, 0, 0.2);
+  border-color: rgba(0, 0, 0, 0.2);
+}
 .navbar-default .navbar-nav,
-.navbar-default .navbar-brand {
+.navbar-default .navbar-default .navbar-brand {
   color: #FC008B;
   font-weight: bold;
   font-size: 1.2em;
 }
 .navbar-default .navbar-nav > .active > a,
-.navbar-default .navbar-brand > .active > a {
+.navbar-default .navbar-default .navbar-brand > .active > a {
   color: #FC008B;
 }
 .navbar-default .navbar-nav > li > a,
-.navbar-default .navbar-brand > li > a {
+.navbar-default .navbar-default .navbar-brand > li > a {
   color: #FC008B;
 }
 @media (min-width: 768px) {

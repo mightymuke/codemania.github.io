@@ -8,21 +8,22 @@ p {
 }
 
 .navbar-default {
-    background-color: #000000;
-}
+    background-color: rgba(0,0,0,0.2);
+    border-color: rgba(0,0,0,0.2);
 
-.navbar-default .navbar-nav, .navbar-default .navbar-brand {
-    color: @menuText;
-    font-weight: bold;
-    font-size: 1.2em;
+    .navbar-nav, .navbar-default .navbar-brand {
+        color: @menuText;
+        font-weight: bold;
+        font-size: 1.2em;
 
-    >.active {
-        >a {
+        >.active {
+            >a {
+                color: @menuText;
+            }
+        }
+        >li>a {
             color: @menuText;
         }
-    }
-    >li>a {
-        color: @menuText;
     }
 }
 
