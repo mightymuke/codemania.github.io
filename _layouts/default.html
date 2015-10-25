@@ -41,15 +41,14 @@
 	</nav>
 
 	<div class="parallax">
-	  <div class="parallax__layer parallax__layer--back stars">
+	  <div class="parallax__layer parallax__layer--back">
+	  	<div class="stars"></div>
 	  </div>
-	  <div class="parallax__layer parallax__layer--deep stars-deep">
+	  <div class="parallax__layer parallax__layer--deep">
+	  <div class="stars-deep"></div>
 	  </div>
-	  <div class="parallax__layer parallax__layer--base">
-	    <div id="mainBody" class="container-fluid">
-				{{ content }}
-			</div>
-	  </div>
+	  {{ content }}
+
 	</div>
 
     <script src="//code.jquery.com/jquery-1.9.1.min.js"></script>

@@ -76,15 +76,20 @@ p {
     transform: translateZ(-600px) scale(3);
     height: 100%;
 }
-
-.stars {
-    background: transparent url("/images/2016/stars_background.png") repeat left top;
-    background-size: auto;
+.parallax__layer--objects {
+    -webkit-transform: translateZ(-100px) scale(1);
+    transform: translateZ(-100px) scale(1);
     height: 100%;
 }
 
-.stars-deep {
-    background: transparent url("/images/2016/stars_background.png") repeat -100px 50px;
+.stars {
+    background: transparent url("/images/2016/stars_background.png") repeat;
     background-size: 80%;
+    height: 2000px;
 }
 
+.stars-deep {
+    background: transparent url("/images/2016/stars_background.png") repeat;
+    background-size: 70%;
+    height: 1400px;
+}

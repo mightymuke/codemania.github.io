@@ -1,17 +1,26 @@
 ---
 layout: default
 ---
-
-<div class="row" style="height:1200px">
-  <!-- Column 10-wide (of 12), offset by 1 (of 12). Or, just 12 of 12 on mobile ("xs" screens) -->
-  <div class="col-md-10 col-md-offset-1 col-xs-12">
-    <p>hello world</p>
+<div class="parallax__layer parallax__layer--objects">
+  <img src="/images/2016/asteroid.svg" class="asteroid1" />
+  <img src="/images/2016/swirl_1.svg" class="swirl1" />
+  <img src="/images/2016/asteroid.svg" class="asteroid2" />
+  <img src="/images/2016/swirl_2.svg" class="swirl2" />
+  <img src="/images/2016/planet_1.svg" class="planet1" />
+</div>
+<div class="parallax__layer parallax__layer--base">
+  <div id="mainBody" class="container-fluid">
+    <div class="row">
+      <!-- Column 10-wide (of 12), offset by 1 (of 12). Or, just 12 of 12 on mobile ("xs" screens) -->
+      <div class="col-md-10 col-md-offset-1 col-xs-12">
+        <img src="/images/2016/masthead.svg" class="masthead" />
+        <img src="/images/2016/luchanaut_1.svg" class="luchanaut" />
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-10 col-md-offset-1 col-xs-12">
+        <p>testing rows</p>
+      </div>
+    </div>
   </div>
 </div>
-<div class="row">
-  <div class="col-md-10 col-md-offset-1 col-xs-12">
-    <p>testing rows</p>
-  </div>
-</div>
-
-
