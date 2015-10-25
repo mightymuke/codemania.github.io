@@ -47,49 +47,4 @@ p {
     text-align: center;
 }
 
-.parallax {
-  perspective: 300px;
-  height: 100vh;
-  overflow-x: hidden;
-  overflow-y: auto;
-      -webkit-transform-style: preserve-3d;
-    transform-style: preserve-3d;
-}
-.parallax__layer {
-  position: absolute;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  left: 0;
-}
-.parallax__layer--base {
-    -webkit-transform: translateZ(0);
-    transform: translateZ(0);
-}
-.parallax__layer--back {
-    -webkit-transform: translateZ(-300px) scale(2);
-    transform: translateZ(-300px) scale(2);
-    height: 100%;
-}
-.parallax__layer--deep {
-    -webkit-transform: translateZ(-600px) scale(3);
-    transform: translateZ(-600px) scale(3);
-    height: 100%;
-}
-.parallax__layer--objects {
-    -webkit-transform: translateZ(-100px) scale(1);
-    transform: translateZ(-100px) scale(1);
-    height: 100%;
-}
 
-.stars {
-    background: transparent url("/images/2016/stars_background.png") repeat;
-    background-size: 80%;
-    height: 2000px;
-}
-
-.stars-deep {
-    background: transparent url("/images/2016/stars_background.png") repeat;
-    background-size: 70%;
-    height: 1400px;
-}
