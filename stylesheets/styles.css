@@ -40,7 +40,7 @@
 }
 body {
   background-color: #35267B;
-  color: #002d45;
+  color: #FC008B;
 }
 p {
   font-size: 1.3em;
@@ -55,13 +55,17 @@ p {
   font-weight: bold;
   font-size: 1.2em;
 }
+.navbar-default .navbar-nav > li > a,
+.navbar-default .navbar-default .navbar-brand > li > a,
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-default .navbar-brand > .active > a {
   color: #FC008B;
 }
-.navbar-default .navbar-nav > li > a,
-.navbar-default .navbar-default .navbar-brand > li > a {
-  color: #FC008B;
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-default .navbar-brand > li > a:hover,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-default .navbar-brand > .active > a:hover {
+  color: #ffdb0a;
 }
 @media (min-width: 768px) {
   .navbar .navbar-nav {
@@ -79,11 +83,43 @@ p {
   margin-right: auto;
   text-align: center;
 }
-.stars {
+.parallax {
+  perspective: 300px;
+  height: 100vh;
+  overflow-x: hidden;
+  overflow-y: auto;
+  -webkit-transform-style: preserve-3d;
+  transform-style: preserve-3d;
+}
+.parallax__layer {
   position: absolute;
   top: 0;
+  right: 0;
+  bottom: 0;
   left: 0;
-  z-index: -10;
+}
+.parallax__layer--base {
+  -webkit-transform: translateZ(0);
+  transform: translateZ(0);
+}
+.parallax__layer--back {
+  -webkit-transform: translateZ(-300px) scale(2);
+  transform: translateZ(-300px) scale(2);
+  height: 100%;
+}
+.parallax__layer--deep {
+  -webkit-transform: translateZ(-600px) scale(3);
+  transform: translateZ(-600px) scale(3);
+  height: 100%;
+}
+.stars {
+  background: transparent url("/images/2016/stars_background.png") repeat left top;
+  background-size: auto;
+  height: 100%;
+}
+.stars-deep {
+  background: transparent url("/images/2016/stars_background.png") repeat -100px 50px;
+  background-size: 80%;
 }
 .luchanaut {
   -webkit-animation: float 2s ease-in-out infinite alternate;

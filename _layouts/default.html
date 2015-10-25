@@ -16,11 +16,7 @@
 </head>
 <body class="oswald">
 
-	<div id="mainBody">
-		{{ content }}
-	</div>
-
-	<nav class="navbar navbar-default navbar-static-top oswald">
+	<nav class="navbar navbar-default navbar-fixed-top oswald">
 		<div class="center-block">
 			<!-- Brand and toggle get grouped for better mobile display -->
 			<div class="navbar-header">
@@ -44,6 +40,17 @@
 		</div><!-- /.container-fluid -->
 	</nav>
 
+	<div class="parallax">
+	  <div class="parallax__layer parallax__layer--back stars">
+	  </div>
+	  <div class="parallax__layer parallax__layer--deep stars-deep">
+	  </div>
+	  <div class="parallax__layer parallax__layer--base">
+	    <div id="mainBody" class="container-fluid">
+				{{ content }}
+			</div>
+	  </div>
+	</div>
 
     <script src="//code.jquery.com/jquery-1.9.1.min.js"></script>
 	<!-- Latest compiled and minified JavaScript -->
