@@ -127,6 +127,9 @@ p {
   background-size: 70%;
   height: 1400px;
 }
+.container-fluid {
+  padding: 0;
+}
 .masthead {
   width: 700px;
   margin-left: 150px;

@@ -4,7 +4,7 @@ title: Codemania of years gone by
 years: ['2012', '2013', '2014', '2015']
 ---
 
-
+<div class="parallax__layer parallax__layer--base">
 <div class="pure-g">
 
 	{% for year in page.years %}
@@ -15,4 +15,5 @@ years: ['2012', '2013', '2014', '2015']
 	</div>
 	{% endfor %}
 
+</div>
 </div>
