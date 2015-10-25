@@ -5,13 +5,28 @@
 .masthead {
 	width: 95%;
 	margin-top: 70px;
-	z-index: 100;
 }
 
 .buytickets {
 	width: 125%;
 	margin-top: 50px;
 	margin-left: -90px;
+}
+
+.luchanaut {
+   -webkit-animation: float 2s ease-in-out infinite alternate;
+   animation: float 2s ease-in-out infinite alternate;
+   position: absolute;
+   left: 0px;
+   top: 200px;
+}
+
+.luchanaut2 {
+   -webkit-animation: float 1s ease-in-out infinite alternate;
+   animation: float 4s ease-in-out infinite alternate;
+   position: absolute;
+   right: 0px;
+   top: 280px;
 }
 
 .parallax {
@@ -63,15 +78,6 @@
     opacity: 0.5;
 }
 
-.luchanaut {
-   -webkit-animation: float 2s ease-in-out infinite alternate;
-   animation: float 2s ease-in-out infinite alternate;
-   width: 500px;
-   margin-left: -50px;
-   margin-top: -200px;
-   z-index: 99;
-}
-
 @keyframes float {
 	0% {
 		-webkit-transform: translateY(10px);
@@ -94,7 +100,7 @@
     height: 300px;
     position: absolute;
     left: 1000px;
-    top: 600px;
+    top: 400px;
 }
 
 .swirl1 {
@@ -122,9 +128,6 @@
 
 @media (max-width: 768px) {
 	// stuff to show/hide on phones
-	.luchanaut {
-		display: none;
-	}
 	.masthead {
 		margin: 60px auto 0 10px;
 		width: 100%;
@@ -138,14 +141,33 @@
 	.space-object {
 		max-width: 20%;
 	}
+	.stars, .stars-deep {
+		background-size: 200%;
+	}
 }
 
 @media(min-width:768px){
 	// stuff to show on not-phones
+	.luchanaut {
+		width: 400px;
+	}
+	.luchanaut2 {
+		width: 300px;
+	}
+	.stars, .stars-deep {
+		background-size: 150%;
+	}
 }
 @media(min-width:992px){
-	// stuff to show on tablets
+	.luchanaut {
+		width: 500px;
+	}
+	.luchanaut2 {
+		width: 400px;
+	}
 }
 @media(min-width:1200px){
-	// stuff to show on desktops
+	.stars, .stars-deep {
+		background-size: 90%;
+	}
 }
