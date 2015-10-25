@@ -7,13 +7,13 @@ layout: default
   </div>
   <div class="parallax__layer parallax__layer--deep">
     <div class="stars-deep"></div>
-    <img src="/images/2016/asteroid.svg" class="asteroid2" />
-    <img src="/images/2016/swirl_1.svg" class="swirl1" />
+    <img src="/images/2016/asteroid.svg" class="asteroid2 space-object" />
+    <img src="/images/2016/swirl_1.svg" class="swirl1 space-object" />
   </div>
   <div class="parallax__layer parallax__layer--objects">
-    <img src="/images/2016/asteroid.svg" class="asteroid1" />
-    <img src="/images/2016/swirl_2.svg" class="swirl2" />
-    <img src="/images/2016/planet_1.svg" class="planet1" />
+    <img src="/images/2016/asteroid.svg" class="asteroid1 space-object" />
+    <img src="/images/2016/swirl_2.svg" class="swirl2 space-object" />
+    <img src="/images/2016/planet_1.svg" class="planet1 space-object" />
   </div>
   <div class="parallax__layer parallax__layer--base">
     <div class="row">
