@@ -90,7 +90,7 @@ layout: default
         <p>You build the things we love to use, you learn, you grow and you improve the things you touch.</p>
         <p>You inspire us. Codemania is for you. Come along and enjoy the ride.</p>
         <p>Codemania is for nice people, like you. Please have a read of our <a href="/benice.html">Be Nice Policy</a>.</p>
-        <p>Codemania will be held at The Langham Hotel, with workshops on Thursday March 31st, and the main conference on Friday April 1st. We got you a special rate — book a room now.</p>
+        <p>Codemania will be held at the luxurious Langham Hotel on Friday April 1st, and the extended Codemania Conversations unconference will be at the stunning Waitakere Estate on Saturday 2nd and Sunday 3rd April.</p>
       </div>
       <div class="col-sm-3 col-xs-1">
         <img src="/images/2016/luchanaut_3.svg" class="luchanaut3 hidden-xs" />
@@ -118,35 +118,47 @@ layout: default
               <td></td>
               <td>
                 <p class="oswald-bold">EARLY BIRD</p>
-                <p class="oswald-light">ENDS XX FEB</p>
+                <p class="oswald-light">ENDS 31 JAN</p>
               </td>
               <td>
                 <p class="oswald-bold">REGULAR</p>
-                <p class="oswald-light">ENDS XX MAR</p>
-              </td>
-              <td>
-                <p class="oswald-bold">LATE BIRD</p>
-                <p class="oswald-light">ENDS 1 APR</p>
+                <p class="oswald-light"></p>
               </td>
             </tr>
           </thead>
           <tbody>
             <tr class="ticket-row-odd">
               <td>CONFERENCE</td>
-              <td class="oswald-light">$XXX</td>
-              <td class="oswald-light">$XXX</td>
-              <td class="oswald-light">$XXX</td>
+              <td class="oswald-light">$399</td>
+              <td class="oswald-light">$499</td>
+            </tr>
+            <tr class="ticket-row-even">
+              <td>CONVERSATIONS</td>
+              <td class="oswald-light">$599</td>
+              <td class="oswald-light">$699</td>
+            </tr>
+            <tr class="ticket-row-odd">
+              <td>CONVERSATIONS *</td>
+              <td class="oswald-light">$299</td>
+              <td class="oswald-light">$399</td>
             </tr>
             <tr class="ticket-row-even">
               <td>WEEKENDER</td>
-              <td class="oswald-light">$XXX</td>
-              <td class="oswald-light">$XXX</td>
-              <td class="oswald-light">$XXX</td>
+              <td class="oswald-light">$899</td>
+              <td class="oswald-light">$999</td>
+            </tr>
+            <tr class="ticket-row-odd">
+              <td>WEEKENDER *</td>
+              <td class="oswald-light">$599</td>
+              <td class="oswald-light">$699</td>
             </tr>
           </tbody>
         </table>
+
+        <p>* When purchased with a conference ticket</p>
       </div>
     </div>
+
     <div class="row">
       <div class="col-sm-4 col-sm-offset-1 hidden-xs">
         <img src="/images/2016/luchanaut_4.svg" class="luchanaut4" />
