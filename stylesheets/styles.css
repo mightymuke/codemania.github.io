@@ -298,7 +298,18 @@ body {
 .shuttle4 {
   width: 100%;
   height: auto;
-  margin-top: -7 0px;
+  margin-top: -70px;
+}
+.luchanaut4 {
+  width: 100%;
+  margin-top: -20px;
+  margin-bottom: -50px;
+  height: auto;
+}
+.shuttle1 {
+  width: 70%;
+  margin-top: 0px;
+  margin-bottom: -50px;
 }
 .skull {
   width: 120%;
@@ -342,6 +353,10 @@ body {
   .skull {
     margin-top: 1700px;
     margin-left: -25px;
+  }
+  .shuttle4,
+  .shuttle1 {
+    margin-top: 10px;
   }
   .sponsor-row .cm-sponsor-box {
     height: 80px;

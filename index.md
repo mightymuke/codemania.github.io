@@ -148,6 +148,14 @@ layout: default
       </div>
     </div>
     <div class="row">
+      <div class="col-sm-4 col-sm-offset-1 hidden-xs">
+        <img src="/images/2016/luchanaut_4.svg" class="luchanaut4" />
+      </div>
+      <div class="col-sm-4 col-sm-offset-2 col-xs-6 col-xs-offset-3">
+        <img src="/images/2016/shuttle_1.svg" class="shuttle1" />
+      </div>
+    </div>
+    <div class="row">
       <div class="col-md-10 col-md-offset-1 col-xs-12 titleImageContainer" id="sponsors">
         <img src="/images/2016/title_sponsors.png" class="titleImage"/>
       </div>
