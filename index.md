@@ -118,35 +118,47 @@ layout: default
               <td></td>
               <td>
                 <p class="oswald-bold">EARLY BIRD</p>
-                <p class="oswald-light">ENDS XX FEB</p>
+                <p class="oswald-light">ENDS 31 JAN</p>
               </td>
               <td>
                 <p class="oswald-bold">REGULAR</p>
-                <p class="oswald-light">ENDS XX MAR</p>
-              </td>
-              <td>
-                <p class="oswald-bold">LATE BIRD</p>
-                <p class="oswald-light">ENDS 1 APR</p>
+                <p class="oswald-light"></p>
               </td>
             </tr>
           </thead>
           <tbody>
             <tr class="ticket-row-odd">
               <td>CONFERENCE</td>
-              <td class="oswald-light">$XXX</td>
-              <td class="oswald-light">$XXX</td>
-              <td class="oswald-light">$XXX</td>
+              <td class="oswald-light">$399</td>
+              <td class="oswald-light">$499</td>
+            </tr>
+            <tr class="ticket-row-even">
+              <td>CONVERSATIONS</td>
+              <td class="oswald-light">$599</td>
+              <td class="oswald-light">$699</td>
+            </tr>
+            <tr class="ticket-row-odd">
+              <td>CONVERSATIONS *</td>
+              <td class="oswald-light">$299</td>
+              <td class="oswald-light">$399</td>
             </tr>
             <tr class="ticket-row-even">
               <td>WEEKENDER</td>
-              <td class="oswald-light">$XXX</td>
-              <td class="oswald-light">$XXX</td>
-              <td class="oswald-light">$XXX</td>
+              <td class="oswald-light">$899</td>
+              <td class="oswald-light">$999</td>
+            </tr>
+            <tr class="ticket-row-odd">
+              <td>WEEKENDER *</td>
+              <td class="oswald-light">$599</td>
+              <td class="oswald-light">$699</td>
             </tr>
           </tbody>
         </table>
+
+        <p>* When purchased with a conference ticket</p>
       </div>
     </div>
+
     <div class="row">
       <div class="col-sm-4 col-sm-offset-1 hidden-xs">
         <img src="/images/2016/luchanaut_4.svg" class="luchanaut4" />
