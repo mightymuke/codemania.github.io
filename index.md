@@ -16,6 +16,7 @@ layout: default
     <img src="/images/2016/swirl_2.svg" class="swirl2 space-object" />
     <img src="/images/2016/planet_1.svg" class="planet1 space-object" />
     <img src="/images/2016/shuttle_3.svg" class="shuttle3 space-object" />
+    <img src="/images/2016/skull.svg" class="skull" />
   </div>
   <div class="parallax__layer parallax__layer--base">
     <div class="row">

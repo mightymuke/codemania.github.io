@@ -279,6 +279,11 @@ body {
   height: auto;
   margin-top: -7 0px;
 }
+.skull {
+  width: 120%;
+  margin-top: 1900px;
+  margin-left: -120px;
+}
 @media (max-width: 768px) {
   body {
     font-size: 14pt;
