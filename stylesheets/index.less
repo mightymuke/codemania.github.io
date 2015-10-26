@@ -1,86 +1,99 @@
 .container-fluid {
-	padding: 0;
+  padding: 0
 }
 
 .masthead {
-	width: 95%;
-	margin-top: 120px;
-	margin-bottom: 150px;
+  width: 95%;
+  margin-top: 120px;
+  margin-bottom: 150px
 }
 
 .buytickets {
-	width: 125%;
-	margin-top: 90px;
-	margin-left: -90px;
+  width: 125%;
+  margin-top: 90px;
+  margin-left: -90px
 }
 
 .titleImageContainer {
-	height: 130px;
-	padding-top: 70px;
-	margin-bottom: 30px;
+  height: 130px;
+  padding-top: 70px;
+  margin-bottom: 30px
 }
 
 .titleImage {
-	height: 60px;
-	width: auto;
-	display: block;
-	margin: 0 auto;
+  height: 60px;
+  width: auto;
+  display: block;
+  margin: 0 auto
 }
 
 .speakerRow {
-	text-transform: uppercase;
-	font-size: 18pt;
+  text-transform: uppercase;
+  font-size: 18pt;
+
+  .speaker-box>img {
+    width: 150px;
+    height: auto
+  }
+
 }
 
 .ticket-table {
-	width: 100%;
-	font-size: 18pt;
-	thead tr td {
-		padding-bottom: 15px;
-	}
-	td {
-		width: 25%;
-		padding: 10px;
-	}
-	p {
-		margin: 0;
-		line-height: 20pt;
-	}
+  width: 100%;
+  font-size: 18pt;
 
-	.ticket-row-odd {
-		td {
-			background: @row-odd-fill;
-		}
-	}
-	.ticket-row-even {
-		td {
-			color: @row-even-color;
-			background: @row-even-fill;
-		}
-	}
+  thead tr td {
+    padding-bottom: 15px
+  }
+
+  td {
+    width: 25%;
+    padding: 10px
+  }
+
+  p {
+    margin: 0;
+    line-height: 20pt
+  }
+
+  .ticket-row-odd {
+    td {
+      background: @row-odd-fill
+    }
+
+  }
+
+  .ticket-row-even {
+    td {
+      color: @row-even-color;
+      background: @row-even-fill
+    }
+
+  }
+
 }
 
 .luchanaut {
-   -webkit-animation: float 2s ease-in-out infinite alternate;
-   animation: float 2s ease-in-out infinite alternate;
-   position: absolute;
-   left: 0px;
-   top: 250px;
+  -webkit-animation: float 2s ease-in-out infinite alternate;
+  animation: float 2s ease-in-out infinite alternate;
+  position: absolute;
+  left: 0px;
+  top: 250px
 }
 
 .luchanaut2 {
-   -webkit-animation: float 1s ease-in-out infinite alternate;
-   animation: float 4s ease-in-out infinite alternate;
-   position: absolute;
-   right: 0px;
-   top: 310px;
+  -webkit-animation: float 1s ease-in-out infinite alternate;
+  animation: float 4s ease-in-out infinite alternate;
+  position: absolute;
+  right: 0px;
+  top: 310px
 }
 
 .luchanaut3 {
-   -webkit-animation: float 1s ease-in-out infinite alternate;
-   animation: float 6s ease-in-out infinite alternate;
-   width: 130%;
-   margin-left: -30px;
+  -webkit-animation: float 1s ease-in-out infinite alternate;
+  animation: float 6s ease-in-out infinite alternate;
+  width: 130%;
+  margin-left: -30px
 }
 
 .parallax {
@@ -88,193 +101,219 @@
   height: 100vh;
   overflow-x: hidden;
   overflow-y: auto;
-      -webkit-transform-style: preserve-3d;
-    transform-style: preserve-3d;
+  -webkit-transform-style: preserve-3d;
+  transform-style: preserve-3d
 }
+
 .parallax__layer {
   position: absolute;
   top: 0;
   right: 0;
   bottom: 0;
-  left: 0;
+  left: 0
 }
+
 .parallax__layer--base {
-    -webkit-transform: translateZ(0);
-    transform: translateZ(0);
+  -webkit-transform: translateZ(0);
+  transform: translateZ(0)
 }
+
 .parallax__layer--back {
-    -webkit-transform: translateZ(-300px) scale(2);
-    transform: translateZ(-300px) scale(2);
-    height: 100%;
+  -webkit-transform: translateZ(-300px) scale(2);
+  transform: translateZ(-300px) scale(2);
+  height: 100%
 }
+
 .parallax__layer--deep {
-    -webkit-transform: translateZ(-600px) scale(3);
-    transform: translateZ(-600px) scale(3);
-    height: 100%;
+  -webkit-transform: translateZ(-600px) scale(3);
+  transform: translateZ(-600px) scale(3);
+  height: 100%
 }
+
 .parallax__layer--objects {
-    -webkit-transform: translateZ(-100px) scale(1);
-    transform: translateZ(-100px) scale(1);
-    height: 100%;
+  -webkit-transform: translateZ(-100px) scale(1);
+  transform: translateZ(-100px) scale(1);
+  height: 100%
 }
 
 .stars {
-    background: transparent url("/images/2016/stars_background.png") repeat;
-    background-size: 80%;
-    height: 2000px;
-    opacity: 0.5;
+  background: transparent url("/images/2016/stars_background.png") repeat;
+  background-size: 80%;
+  height: 2000px;
+  opacity: 0.5
 }
 
 .stars-deep {
-    background: transparent url("/images/2016/stars_background.png") repeat;
-    background-size: 70%;
-    height: 1400px;
-    opacity: 0.5;
+  background: transparent url("/images/2016/stars_background.png") repeat;
+  background-size: 70%;
+  height: 1400px;
+  opacity: 0.5
 }
 
 @keyframes float {
-	0% {
-		-webkit-transform: translateY(10px);
-		transform: translateY(10px);
-	}
-	100% {
-		-webkit-transform: translateY(-10px);
-		transform: translateY(-10px);
-	}
+  0% {
+    -webkit-transform: translateY(10px);
+    transform: translateY(10px)
+  }
+
+  100% {
+    -webkit-transform: translateY(-10px);
+    transform: translateY(-10px)
+  }
+
 }
 
 .asteroid1 {
-    width: 450px;
-    height: auto;
-    margin-top: -350px;
-    margin-left: -50px;
+  width: 450px;
+  height: auto;
+  margin-top: -350px;
+  margin-left: -50px
 }
 
 .asteroid2 {
-    width: 300px;
-    height: 300px;
-    position: absolute;
-    left: 1000px;
-    top: 400px;
+  width: 300px;
+  height: 300px;
+  position: absolute;
+  left: 1000px;
+  top: 400px
 }
 
 .swirl1 {
-    width: 150px;
-    height: 150px;
-    position: absolute;
-    left: -50px;
-    top: 200px;
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  left: -50px;
+  top: 200px
 }
 
 .swirl2 {
-    width: 100px;
-    height: 100px;
-    position: absolute;
-    left: -50px;
-    top: 2000px;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: -50px;
+  top: 2000px
 }
 
 .planet1 {
-    width: 270px;
-    height: 200px;
-    position: absolute;
-    top: 360px;
-    left: 38%;
+  width: 270px;
+  height: 200px;
+  position: absolute;
+  top: 360px;
+  left: 38%
 }
 
 .shuttle3 {
-    width: 60px;
-    height: auto;
-    position: absolute;
-    top: 50px;
-    left: 65%;
+  width: 60px;
+  height: auto;
+  position: absolute;
+  top: 50px;
+  left: 65%
 }
 
 .alien1 {
-    width: 160px;
-    height: auto;
-    position: absolute;
-    right: 190px;
-    top: 460px;
+  width: 160px;
+  height: auto;
+  position: absolute;
+  right: 190px;
+  top: 460px
 }
 
-.alien3, .shuttle4 {
-	width: 100%;
-	height: auto;
-	margin-top: -7	0px;
+.alien3,
+.shuttle4 {
+  width: 100%;
+  height: auto;
+  margin-top: -7  0px
 }
 
 .skull {
-	width: 120%;
-	margin-top: 1900px;
-	margin-left: -120px;
+  width: 120%;
+  margin-top: 1900px;
+  margin-left: -120px
 }
 
-@media (max-width: 768px) {
-	// stuff to show/hide on phones
-	body {
-		font-size: 14pt;
-		line-height: 15pt;
-	}
+@media (max-width:768px) {
+  // stuff to show/hide on phones
+  body {
+    font-size: 14pt;
+    line-height: 15pt
+  }
 
-	.titleImageContainer {
-		height: 90px;
-		padding-top: 60px;
-		margin-bottom: 30px;
-	}
+  .titleImageContainer {
+    height: 90px;
+    padding-top: 60px;
+    margin-bottom: 30px
+  }
 
-	.ticket-table {
-		margin: 0 auto;
-		width: 95%;
-		td {
-			font-size: 13pt;
-			line-height: 14pt;
-		}
-	}
+  .ticket-table {
+    margin: 0 auto;
+    width: 95%;
 
-	.masthead {
-		margin: 60px auto 0 10px;
-		width: 100%;
-		display: block;
-	}
-	.titleImage {
-		height: 30px;
-	}
-	.buytickets {
-		margin: -50px auto 0 auto;
-		width: 100%;
-		display: block;
-	}
-	.space-object {
-		max-width: 20%;
-	}
-	.stars, .stars-deep {
-		background-size: 200%;
-	}
+    td {
+      font-size: 13pt;
+      line-height: 14pt
+    }
+
+  }
+
+  .masthead {
+    margin: 60px auto 0 10px;
+    width: 100%;
+    display: block
+  }
+
+  .titleImage {
+    height: 30px
+  }
+
+  .buytickets {
+    margin: -50px auto 0 auto;
+    width: 100%;
+    display: block
+  }
+
+  .space-object {
+    max-width: 20%
+  }
+
+  .stars,
+  .stars-deep {
+    background-size: 200%
+  }
+
 }
 
-@media(min-width:768px){
-	// stuff to show on not-phones
-	.luchanaut {
-		width: 400px;
-	}
-	.luchanaut2 {
-		width: 300px;
-	}
-	.stars, .stars-deep {
-		background-size: 150%;
-	}
+@media(min-width:768px) {
+  // stuff to show on not-phones
+  .luchanaut {
+    width: 400px
+  }
+
+  .luchanaut2 {
+    width: 300px
+  }
+
+  .stars,
+  .stars-deep {
+    background-size: 150%
+  }
+
 }
-@media(min-width:992px){
-	.luchanaut {
-		width: 550px;
-	}
-	.luchanaut2 {
-		width: 400px;
-	}
+
+@media(min-width:992px) {
+  .luchanaut {
+    width: 550px
+  }
+
+  .luchanaut2 {
+    width: 400px
+  }
+
 }
-@media(min-width:1200px){
-	.stars, .stars-deep {
-		background-size: 90%;
-	}
+
+@media(min-width:1200px) {
+  .stars,
+  .stars-deep {
+    background-size: 90%
+  }
+
 }
