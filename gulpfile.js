@@ -4,7 +4,7 @@ var gulp = require('gulp'),
 
 
 // define the default task and add the watch task to it
-gulp.task('default', ['watch']);
+gulp.task('default', ['less','watch']);
 
 
 // configure the less task

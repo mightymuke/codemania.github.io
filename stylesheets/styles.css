@@ -44,8 +44,8 @@
   font-style: normal;
 }
 body {
-  background-color: #35267b;
-  color: #dbd3eb;
+  background-color: #35267B;
+  color: #DBD3EB;
   font-size: 24pt;
   line-height: 26pt;
 }
@@ -56,14 +56,14 @@ body {
 }
 .navbar-default .navbar-nav,
 .navbar-default .navbar-default .navbar-brand {
-  color: #fc008b;
+  color: #FC008B;
   font-weight: bold;
 }
 .navbar-default .navbar-nav > li > a,
 .navbar-default .navbar-default .navbar-brand > li > a,
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-default .navbar-brand > .active > a {
-  color: #fc008b;
+  color: #FC008B;
 }
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-default .navbar-brand > li > a:hover,
@@ -112,11 +112,19 @@ body {
   margin-top: 90px;
   margin-left: -90px;
 }
+.titleImageContainer {
+  height: 130px;
+  padding-top: 70px;
+}
 .titleImage {
   height: 60px;
   width: auto;
   display: block;
   margin: 0 auto;
+}
+.speakerRow {
+  text-transform: uppercase;
+  font-size: 18pt;
 }
 .luchanaut {
   -webkit-animation: float 2s ease-in-out infinite alternate;

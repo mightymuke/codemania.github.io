@@ -35,14 +35,43 @@ layout: default
       </div>
     </div>
     <div class="row">
-      <div class="col-md-10 col-md-offset-1 col-xs-12">
-        <img src="/images/2016/title_speakers.png" class="titleImage" id="speakers"/>
-        <div><p>Speakers go here</p></div>
+      <div class="col-md-10 col-md-offset-1 col-xs-12 titleImageContainer" id="speakers">
+        <img src="/images/2016/title_speakers.png" class="titleImage"/>
       </div>
     </div>
+    <div class="row speakerRow oswald-bold">
+      <div class="col-md-2 col-sm-2 col-xs-1"></div>
+      <div class="col-md-2 col-sm-2 col-xs-5 speakerBox">Speaker 1</div>
+      <div class="col-md-2 col-sm-2 col-xs-5 speakerBox">Speaker 2</div>
+      <div class="hidden-md hidden-sm col-xs-1">&nbsp;</div>
+      <div class="hidden-md hidden-sm col-xs-1">&nbsp;</div>
+      <div class="col-md-2 col-sm-2 col-xs-5 speakerBox">Speaker 3</div>
+      <div class="col-md-2 col-sm-2 col-xs-5 speakerBox">Speaker 4</div>
+      <div class="col-md-2 col-sm-2 col-xs-1"></div>
+    </div>
+    <div class="row speakerRow oswald-bold">
+      <div class="col-md-2 col-sm-2 col-xs-1"></div>
+      <div class="col-md-2 col-sm-2 col-xs-5 speakerBox">Speaker 5</div>
+      <div class="col-md-2 col-sm-2 col-xs-5 speakerBox">Speaker 6</div>
+      <div class="hidden-md hidden-sm col-xs-1">&nbsp;</div>
+      <div class="hidden-md hidden-sm col-xs-1">&nbsp;</div>
+      <div class="col-md-2 col-sm-2 col-xs-5 speakerBox">Speaker 7</div>
+      <div class="col-md-2 col-sm-2 col-xs-5 speakerBox">Speaker 8</div>
+      <div class="col-md-2 col-sm-2 col-xs-1"></div>
+    </div>
+    <div class="row speakerRow oswald-bold">
+      <div class="col-md-2 col-sm-2 col-xs-1"></div>
+      <div class="col-md-2 col-sm-2 col-xs-5">Speaker 9</div>
+      <div class="col-md-2 col-sm-2 col-xs-5">Speaker 10</div>
+      <div class="hidden-md hidden-sm col-xs-1">&nbsp;</div>
+      <div class="hidden-md hidden-sm col-xs-1">&nbsp;</div>
+      <div class="col-md-2 col-sm-2 col-xs-5">Speaker 11</div>
+      <div class="col-md-2 col-sm-2 col-xs-5">Speaker 12</div>
+      <div class="col-md-2 col-sm-2 col-xs-1"></div>
+    </div>
     <div class="row">
-      <div class="col-md-10 col-md-offset-1 col-xs-12">
-        <img src="/images/2016/title_about.png" class="titleImage" id="about" />
+      <div class="col-md-10 col-md-offset-1 col-xs-12 titleImageContainer" id="about">
+        <img src="/images/2016/title_about.png" class="titleImage" />
       </div>
     </div>
     <div class="row">
@@ -61,8 +90,8 @@ layout: default
       </div>
     </div>
     <div class="row">
-      <div class="col-md-10 col-md-offset-1 col-xs-12">
-        <img src="/images/2016/title_tickets.png" class="titleImage" id="tickets" />
+      <div class="col-md-10 col-md-offset-1 col-xs-12 titleImageContainer" id="tickets">
+        <img src="/images/2016/title_tickets.png" class="titleImage"/>
       </div>
     </div>
     <div class="row">
@@ -76,8 +105,8 @@ layout: default
       </div>
     </div>
     <div class="row">
-      <div class="col-md-10 col-md-offset-1 col-xs-12">
-        <img src="/images/2016/title_sponsors.png" class="titleImage" id="sponsors" />
+      <div class="col-md-10 col-md-offset-1 col-xs-12 titleImageContainer" id="sponsors">
+        <img src="/images/2016/title_sponsors.png" class="titleImage"/>
       </div>
     </div>
     <div class="row">
