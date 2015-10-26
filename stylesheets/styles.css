@@ -123,9 +123,16 @@ body {
   display: block;
   margin: 0 auto;
 }
-.speakerRow {
+.speaker-row {
   text-transform: uppercase;
   font-size: 18pt;
+}
+.speaker-row .speaker-box {
+  text-align: center;
+}
+.speaker-row .speaker-box > img {
+  width: 150px;
+  height: auto;
 }
 .ticket-table {
   width: 100%;

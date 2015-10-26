@@ -36,57 +36,63 @@ layout: default
       </div>
     </div>
     <div class="row">
-      <div class="col-md-10 col-md-offset-1 col-xs-12 titleImageContainer" id="speakers">
+      <div class="col-sm-10 col-sm-offset-1 col-xs-12 titleImageContainer" id="speakers">
         <img src="/images/2016/title_speakers.png" class="titleImage"/>
       </div>
     </div>
-    <div class="row speakerRow oswald-bold">
-      <div class="col-md-2 col-sm-2 col-xs-1"></div>
-      <div class="col-md-2 col-sm-2 col-xs-5 speakerBox">Speaker 1</div>
-      <div class="col-md-2 col-sm-2 col-xs-5 speakerBox">Speaker 2</div>
-      <div class="hidden-md hidden-sm col-xs-1">&nbsp;</div>
-      <div class="hidden-md hidden-sm col-xs-1">&nbsp;</div>
-      <div class="col-md-2 col-sm-2 col-xs-5 speakerBox">Speaker 3</div>
-      <div class="col-md-2 col-sm-2 col-xs-5 speakerBox">Speaker 4</div>
-      <div class="col-md-2 col-sm-2 col-xs-1"></div>
+    <div class="row speaker-row oswald-bold">
+      <div class="col-sm-2 hidden-xs"></div>
+      <div class="col-sm-2 col-xs-6 speaker-box">
+        <img src="/images/speakers/2016/andrew-sorensen.png"/>
+        <p>Speaker 1</p>
+      </div>
+      <div class="col-sm-2 col-xs-6 speaker-box">
+        <img src="/images/speakers/2016/andrew-sorensen.png"/>
+        <p>Speaker 2</p>
+      </div>
+      <div class="col-sm-2 col-xs-6 speaker-box">
+        <img src="/images/speakers/2016/andrew-sorensen.png"/>
+        <p>Speaker 3</p>
+      </div>
+      <div class="col-sm-2 col-xs-6 speaker-box">
+        <img src="/images/speakers/2016/andrew-sorensen.png"/>
+        <p>Speaker 4</p>
+      </div>
+      <div class="col-sm-2 hidden-xs"></div>
     </div>
-    <div class="row speakerRow oswald-bold">
-      <div class="col-md-2 col-sm-2 col-xs-1"></div>
-      <div class="col-md-2 col-sm-2 col-xs-5 speakerBox">Speaker 5</div>
-      <div class="col-md-2 col-sm-2 col-xs-5 speakerBox">Speaker 6</div>
-      <div class="hidden-md hidden-sm col-xs-1">&nbsp;</div>
-      <div class="hidden-md hidden-sm col-xs-1">&nbsp;</div>
-      <div class="col-md-2 col-sm-2 col-xs-5 speakerBox">Speaker 7</div>
-      <div class="col-md-2 col-sm-2 col-xs-5 speakerBox">Speaker 8</div>
-      <div class="col-md-2 col-sm-2 col-xs-1"></div>
+    <div class="row speaker-row oswald-bold">
+      <div class="col-sm-2 hidden-xs"></div>
+      <div class="col-sm-2 col-xs-6 speaker-box">Speaker 5</div>
+      <div class="col-sm-2 col-xs-6 speaker-box">Speaker 6</div>
+      <div class="col-sm-2 col-xs-6 speaker-box">Speaker 7</div>
+      <div class="col-sm-2 col-xs-6 speaker-box">Speaker 8</div>
+      <div class="col-sm-2 hidden-xs"></div>
     </div>
-    <div class="row speakerRow oswald-bold">
-      <div class="col-md-2 col-sm-2 col-xs-1"></div>
-      <div class="col-md-2 col-sm-2 col-xs-5">Speaker 9</div>
-      <div class="col-md-2 col-sm-2 col-xs-5">Speaker 10</div>
-      <div class="hidden-md hidden-sm col-xs-1">&nbsp;</div>
-      <div class="hidden-md hidden-sm col-xs-1">&nbsp;</div>
-      <div class="col-md-2 col-sm-2 col-xs-5">Speaker 11</div>
-      <div class="col-md-2 col-sm-2 col-xs-5">Speaker 12</div>
-      <div class="col-md-2 col-sm-2 col-xs-1"></div>
+    <div class="row speaker-row oswald-bold">
+      <div class="col-sm-2 hidden-xs"></div>
+      <div class="col-sm-2 col-xs-6 speaker-box">Speaker 9</div>
+      <div class="col-sm-2 col-xs-6 speaker-box">Speaker 10</div>
+      <div class="col-sm-2 col-xs-6 speaker-box">Speaker 11</div>
+      <div class="col-sm-2 col-xs-6 speaker-box">Speaker 12</div>
+      <div class="col-sm-2 hidden-xs"></div>
     </div>
     <div class="row">
-      <div class="col-md-10 col-md-offset-1 col-xs-12 titleImageContainer" id="about">
+      <div class="col-sm-10 col-sm-offset-1 col-xs-12 titleImageContainer" id="about">
         <img src="/images/2016/title_about.png" class="titleImage" />
       </div>
     </div>
     <div class="row">
-      <div class="col-md-3 col-sm-3 col-xs-1">
+      <div class="col-sm-3 col-xs-1">
         <img src="/images/2016/alien_2.svg" class="hidden-xs" />
       </div>
-      <div class="col-md-6 col-sm-6 col-xs-10 paragraph">
+      <div class="col-sm-6 col-xs-10 paragraph">
         <p>Here's to you, the passionate software developer.</p>
         <p>You build the things we love to use, you learn, you grow and you improve the things you touch.</p>
         <p>You inspire us. Codemania is for you. Come along and enjoy the ride.</p>
         <p>Codemania is for nice people, like you. Please have a read of our <a href="/benice.html">Be Nice Policy</a>.</p>
         <p>Codemania will be held at The Langham Hotel, with workshops on Thursday March 31st, and the main conference on Friday April 1st. We got you a special rate — book a room now.</p>
       </div>
-      <div class="col-md-3 col-sm-3 col-xs-1">
+      <div class="col-sm-3 col-xs-1">
         <img src="/images/2016/luchanaut_3.svg" class="luchanaut3 hidden-xs" />
       </div>
     </div>
