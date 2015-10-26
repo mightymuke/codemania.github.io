@@ -53,7 +53,7 @@ layout: default
         <p>Here's to you, the passionate software developer.</p>
         <p>You build the things we love to use, you learn, you grow and you improve the things you touch.</p>
         <p>You inspire us. Codemania is for you. Come along and enjoy the ride.</p>
-        <p>Codemania is for nice people, like you. Please have a read of our <a href="/be-nice">Be Nice Policy</a>.</p>
+        <p>Codemania is for nice people, like you. Please have a read of our <a href="/benice.html">Be Nice Policy</a>.</p>
         <p>Codemania will be held at The Langham Hotel, with workshops on Thursday March 31st, and the main conference on Friday April 1st. We got you a special rate — book a room now.</p>
       </div>
       <div class="col-md-3 col-sm-3 col-xs-1">
