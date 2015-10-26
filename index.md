@@ -152,8 +152,25 @@ layout: default
         <img src="/images/2016/title_sponsors.png" class="titleImage"/>
       </div>
     </div>
-    <div class="row">
-      <p>need to put some 4-col responsive rows in hurr</p>
+    <div class="row sponsor-row">
+      <div class="col-sm-10 col-sm-offset-1 col-xs-12">
+      <div class="row">
+      <div class="col-sm-4 col-xs-12 cm-sponsor-box">
+        <a href="http://pushpay.com">
+          <img src="/images/sponsors/logo_pushpay.png" />
+        </a>
+      </div>
+      <div class="col-sm-4 col-xs-12 cm-sponsor-box">
+        <a href="http://www.microsoft.co.nz">
+          <img src="/images/sponsors/logo_microsoft.png" />
+        </a>
+      </div>
+      <div class="col-sm-4 col-xs-12 cm-sponsor-box">
+        <img src="/images/sponsors/logo_raygun.png" />
+      </div>
+      </div>
+      <div class="clearfix"></div>
+      </div>
     </div>
   </div>
 </div>

@@ -33,12 +33,31 @@
 
   .speaker-box {
     text-align: center;
+
     >img {
       width: 150px;
       height: auto
     }
+
   }
 
+}
+
+.sponsor-row {
+  .cm-sponsor-box {
+    height: 120px;
+    text-align: center;
+    img {
+      display: inline-block;
+      vertical-align: middle;
+    }
+    &:before {
+      content: '';
+      height: 100%;
+      display: inline-block;
+      vertical-align: middle;
+    }
+  }
 }
 
 .ticket-table {
@@ -276,6 +295,19 @@
 
   .space-object {
     max-width: 20%
+  }
+
+  .skull {
+    margin-top: 1700px;
+    margin-left: -25px;
+  }
+
+  .sponsor-row .cm-sponsor-box {
+    height: 80px;
+    img {
+      height: auto;
+      width: 200px;
+    }
   }
 
   .stars,

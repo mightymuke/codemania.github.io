@@ -134,6 +134,20 @@ body {
   width: 150px;
   height: auto;
 }
+.sponsor-row .cm-sponsor-box {
+  height: 120px;
+  text-align: center;
+}
+.sponsor-row .cm-sponsor-box img {
+  display: inline-block;
+  vertical-align: middle;
+}
+.sponsor-row .cm-sponsor-box:before {
+  content: '';
+  height: 100%;
+  display: inline-block;
+  vertical-align: middle;
+}
 .ticket-table {
   width: 100%;
   font-size: 18pt;
@@ -324,6 +338,17 @@ body {
   }
   .space-object {
     max-width: 20%;
+  }
+  .skull {
+    margin-top: 1700px;
+    margin-left: -25px;
+  }
+  .sponsor-row .cm-sponsor-box {
+    height: 80px;
+  }
+  .sponsor-row .cm-sponsor-box img {
+    height: auto;
+    width: 200px;
   }
   .stars,
   .stars-deep {
