@@ -90,7 +90,7 @@ layout: default
         <p>You build the things we love to use, you learn, you grow and you improve the things you touch.</p>
         <p>You inspire us. Codemania is for you. Come along and enjoy the ride.</p>
         <p>Codemania is for nice people, like you. Please have a read of our <a href="/benice.html">Be Nice Policy</a>.</p>
-        <p>Codemania will be held at The Langham Hotel, with workshops on Thursday March 31st, and the main conference on Friday April 1st. We got you a special rate — book a room now.</p>
+        <p>Codemania will be held at the luxurious Langham Hotel on Friday April 1st, and the extended Codemania Conversations unconference will be at the stunning Waitakere Estate on Saturday 2nd and Sunday 3rd April.</p>
       </div>
       <div class="col-sm-3 col-xs-1">
         <img src="/images/2016/luchanaut_3.svg" class="luchanaut3 hidden-xs" />
