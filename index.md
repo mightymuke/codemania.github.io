@@ -97,10 +97,38 @@ layout: default
     <div class="row">
       <!-- 8/12 wide on most, 10/12 wide on mobile -->
       <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2 col-xs-10 col-xs-offset-1">
-        <table>
-          <tr>
-            <td>some ticket table thing</td>
-          </tr>
+        <table class="ticket-table">
+          <thead>
+            <tr>
+              <td></td>
+              <td>
+                <p class="oswald-bold">EARLY BIRD</p>
+                <p class="oswald-light">ENDS XX FEB</p>
+              </td>
+              <td>
+                <p class="oswald-bold">REGULAR</p>
+                <p class="oswald-light">ENDS XX MAR</p>
+              </td>
+              <td>
+                <p class="oswald-bold">LATE BIRD</p>
+                <p class="oswald-light">ENDS 1 APR</p>
+              </td>
+            </tr>
+          </thead>
+          <tbody>
+            <tr class="ticket-row-odd">
+              <td>CONFERENCE</td>
+              <td class="oswald-light">$XXX</td>
+              <td class="oswald-light">$XXX</td>
+              <td class="oswald-light">$XXX</td>
+            </tr>
+            <tr class="ticket-row-even">
+              <td>WEEKENDER</td>
+              <td class="oswald-light">$XXX</td>
+              <td class="oswald-light">$XXX</td>
+              <td class="oswald-light">$XXX</td>
+            </tr>
+          </tbody>
         </table>
       </div>
     </div>
