@@ -95,27 +95,84 @@
 
 }
 
+@keyframes float {
+  0% {
+    -webkit-transform: translateY(10px) rotate(-5deg);
+    transform: translateY(10px) rotate(-5deg);
+  }
+
+  100% {
+    -webkit-transform: translateY(-10px);
+    transform: translateY(-10px);
+  }
+
+}
+
+@keyframes float2 {
+  0% {
+    -webkit-transform: translateX(20px) rotate(5deg);
+    transform: translateX(20px) rotate(5deg);
+  }
+
+  100% {
+    -webkit-transform: translateY(-25px);
+    transform: translateY(-25px);
+  }
+
+}
+
+@keyframes float3 {
+  0% {
+    -webkit-transform: translateX(20px) rotate(10deg);
+    transform: translateX(20px) rotate(10deg);
+  }
+
+  100% {
+    -webkit-transform: translateY(-15px) translateX(-30px) rotate(28deg);
+    transform: translateY(-15px) translateX(-30px) rotate(28deg);
+  }
+
+}
+
+@keyframes zoom {
+  0% {
+    -webkit-transform: scale(0.95);
+    transform: scale(0.95) rotate(5deg);
+  }
+
+  100% {
+    -webkit-transform: scale(1.02);
+    transform: scale(1.02);
+  }
+
+}
+
 .luchanaut {
-  -webkit-animation: float 2s ease-in-out infinite alternate;
-  animation: float 2s ease-in-out infinite alternate;
+  -webkit-animation: float2 5s ease-in-out infinite alternate;
+  animation: float2 5s ease-in-out infinite alternate;
   position: absolute;
-  left: 0px;
-  top: 250px
+  left: 250px;
+  top: 350px
 }
 
 .luchanaut2 {
-  -webkit-animation: float 1s ease-in-out infinite alternate;
-  animation: float 4s ease-in-out infinite alternate;
+  -webkit-animation: float3 14s ease-in-out infinite alternate;
+  animation: float3 14s ease-in-out infinite alternate;
   position: absolute;
-  right: 0px;
+  right: 200px;
   top: 310px
 }
 
 .luchanaut3 {
-  -webkit-animation: float 1s ease-in-out infinite alternate;
+  -webkit-animation: float 6s ease-in-out infinite alternate;
   animation: float 6s ease-in-out infinite alternate;
-  width: 130%;
+  width: 90%;
   margin-left: -30px
+}
+
+.luchanaut3shuttle {
+  -webkit-animation: zoom 4s ease-in-out infinite alternate;
+  animation: zoom 4s ease-in-out infinite alternate;
 }
 
 .parallax {
@@ -170,19 +227,6 @@
   background-size: 70%;
   height: 1400px;
   opacity: 0.5
-}
-
-@keyframes float {
-  0% {
-    -webkit-transform: translateY(10px);
-    transform: translateY(10px)
-  }
-
-  100% {
-    -webkit-transform: translateY(-10px);
-    transform: translateY(-10px)
-  }
-
 }
 
 .asteroid1 {
@@ -340,11 +384,11 @@
 @media(min-width:768px) {
   // stuff to show on not-phones
   .luchanaut {
-    width: 400px
+    width: 150px
   }
 
   .luchanaut2 {
-    width: 300px
+    width: 200px
   }
 
   .stars,
@@ -356,11 +400,11 @@
 
 @media(min-width:992px) {
   .luchanaut {
-    width: 550px
+    width: 300px
   }
 
   .luchanaut2 {
-    width: 400px
+    width: 250px
   }
 
 }
