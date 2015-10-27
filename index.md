@@ -88,8 +88,7 @@ layout: default
       </div>
       <div class="col-sm-6 col-xs-10 paragraph">
         <p>Codemania is back and better than ever.</p>
-        <p>This year, instead of one speaker at one workshop, you can join all our speakers and an exclusive gathering of your Codemania family for the <em>whole weekend</em> after <span class="hilite">Codemania Conference</span>, in the wonderful surrounds of Auckland's own Waitakere rainforest. It's an unconference (well, a semi-conference), and we're calling it <span class="hilite">Codemania Conversations</span>.</p>
-        <p>A regular ticket for Codemania Conversations lets you attend both Saturday and Sunday during the day. A Weekender ticket includes overnight luxury accomodation, dinner, breakfast, and almost certainly some shenanigans. There are literally a handful of Weekender tickets available, so as the kids say: act quickly.</p>
+        <p>This year, instead of one speaker at one workshop, you can join our world-class speakers and an exclusive gathering of your Codemania family for the <em>whole weekend</em> after <a href="/agenda.html" class="hilite">Codemania Conference</a>, in the wonderful surrounds of one of Auckland's most picturesque bush settings. It's an unconference (well, a semi-conference), and we're calling it <a href="/agenda.html#codemania-conversations" class="hilite">Codemania Conversations</a>.</p>
         <p>Codemania Conference will be held at the luxurious Langham Hotel on Friday April 1st, and the extended Codemania Conversations unconference will be at a secret hideaway 40 minutes drive from Auckland City, on Saturday 2nd and Sunday 3rd April.</p>
         <p>Like always, Codemania is for nice people, like you. Please have a read of our <a href="/benice.html">Be Nice Policy</a>.</p>
       </div>
