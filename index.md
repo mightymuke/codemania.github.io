@@ -37,7 +37,7 @@ layout: default
     </div>
     <div class="row">
       <div class="col-sm-10 col-sm-offset-1 col-xs-12 titleImageContainer" id="speakers">
-        <img src="/images/2016/title_speakers.png" class="titleImage"/>
+        <img src="/images/2016/title_speakers.png" class="titleImage" alt="Speakers"/>
       </div>
     </div>
     <div class="row speaker-row oswald-bold">
@@ -78,7 +78,7 @@ layout: default
     </div>
     <div class="row">
       <div class="col-sm-10 col-sm-offset-1 col-xs-12 titleImageContainer" id="about">
-        <img src="/images/2016/title_about.png" class="titleImage" />
+        <img src="/images/2016/title_about.png" class="titleImage" alt="About"/>
       </div>
     </div>
     <div class="row">
@@ -106,13 +106,13 @@ layout: default
     </div>
     <div class="row">
       <div class="col-sm-10 col-sm-offset-1 col-xs-12 titleImageContainer" id="tickets">
-        <img src="/images/2016/title_tickets.png" class="titleImage"/>
+        <img src="/images/2016/title_tickets.png" class="titleImage" alt="Tickets"/>
       </div>
     </div>
     <div class="row">
       <!-- 8/12 wide on most, 10/12 wide on mobile -->
       <div class="col-sm-8 col-sm-offset-2 col-xs-12 tickets-box">
-        <table>
+        <table></table>>
           <thead>
             <tr>
               <td></td>
@@ -168,7 +168,7 @@ layout: default
     </div>
     <div class="row">
       <div class="col-md-10 col-md-offset-1 col-xs-12 titleImageContainer" id="sponsors">
-        <img src="/images/2016/title_sponsors.png" class="titleImage"/>
+        <img src="/images/2016/title_sponsors.png" class="titleImage" alt="Sponsors"/>
       </div>
     </div>
     <div class="row sponsor-row">
