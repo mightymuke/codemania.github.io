@@ -19,6 +19,7 @@ layout: default
     <img src="/images/2016/skull.svg" class="skull" />
   </div>
   <div class="parallax__layer parallax__layer--base">
+    <div id="top"></div>
     <div class="row">
       <div class="col-sm-1 hidden-xs">
         <!-- 1/12 width column on medium and small screens, hidden on x-small -->
