@@ -160,11 +160,8 @@ layout: default
     </div>
 
     <div class="row">
-      <div class="col-sm-4 col-sm-offset-1 hidden-xs">
-        <img src="/images/2016/luchanaut_4.svg" class="luchanaut4" />
-      </div>
-      <div class="col-sm-4 col-sm-offset-2 col-xs-6 col-xs-offset-3">
-        <img src="/images/2016/shuttle_1.svg" class="shuttle1" />
+      <div class="col-sm-8 col-sm-offset-2 col-xs-10 col-xs-offset-1">
+        <img src="/images/2016/luchanaut_3_shuttle.svg" class="luchanaut3shuttle" />
       </div>
     </div>
     <div class="row">
