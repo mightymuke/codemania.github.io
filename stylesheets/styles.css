@@ -45,7 +45,7 @@
 }
 body {
   background-color: #35267B;
-  color: #DBD3EB;
+  color: #dbd3eb;
   font-size: 24pt;
   line-height: 26pt;
 }
@@ -82,7 +82,7 @@ body {
 .navbar-default .navbar-default .navbar-brand > li > a:focus,
 .navbar-default .navbar-nav > .active > a:focus,
 .navbar-default .navbar-default .navbar-brand > .active > a:focus {
-  color: #ffdb0a;
+  color: #dbd3eb;
 }
 @media (min-width: 768px) {
   .navbar .navbar-nav {
