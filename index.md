@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<div class="parallax">
+<div class="parallax" id="parallax-box">
   <div class="parallax__layer parallax__layer--back">
     <div class="stars"></div>
     <img src="/images/2016/alien_1.svg" class="alien1 space-object" />
