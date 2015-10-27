@@ -111,8 +111,8 @@ layout: default
     </div>
     <div class="row">
       <!-- 8/12 wide on most, 10/12 wide on mobile -->
-      <div class="col-sm-8 col-sm-offset-2 col-xs-12">
-        <table class="ticket-table">
+      <div class="col-sm-8 col-sm-offset-2 col-xs-12 tickets-box">
+        <table>
           <thead>
             <tr>
               <td></td>
@@ -154,7 +154,6 @@ layout: default
             </tr>
           </tbody>
         </table>
-
         <p>* When purchased with a conference ticket</p>
       </div>
     </div>

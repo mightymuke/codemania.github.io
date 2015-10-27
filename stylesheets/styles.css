@@ -153,25 +153,25 @@ body {
   display: inline-block;
   vertical-align: middle;
 }
-.ticket-table {
+.tickets-box table {
   width: 100%;
   font-size: 18pt;
 }
-.ticket-table thead tr td {
+.tickets-box table thead tr td {
   padding-bottom: 15px;
 }
-.ticket-table td {
+.tickets-box table td {
   width: 25%;
   padding: 10px;
 }
-.ticket-table p {
+.tickets-box table p {
   margin: 0;
   line-height: 20pt;
 }
-.ticket-table .ticket-row-odd td {
+.tickets-box table .ticket-row-odd td {
   background: #5D4D78;
 }
-.ticket-table .ticket-row-even td {
+.tickets-box table .ticket-row-even td {
   color: #002E46;
   background: #DBD3EB;
 }
@@ -331,11 +331,14 @@ body {
     padding-top: 60px;
     margin-bottom: 30px;
   }
-  .ticket-table {
+  .tickets-box p {
+    margin-left: 10px;
+  }
+  .tickets-box table {
     margin: 0 auto;
     width: 95%;
   }
-  .ticket-table td {
+  .tickets-box table td {
     font-size: 13pt;
     line-height: 14pt;
   }
