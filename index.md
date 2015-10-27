@@ -112,7 +112,7 @@ layout: default
     <div class="row">
       <!-- 8/12 wide on most, 10/12 wide on mobile -->
       <div class="col-sm-8 col-sm-offset-2 col-xs-12 tickets-box">
-        <table></table>>
+        <table>
           <thead>
             <tr>
               <td></td>
