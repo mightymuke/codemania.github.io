@@ -128,6 +128,9 @@ body {
   display: block;
   margin: 0 auto;
 }
+#footer {
+  text-align: center;
+}
 .speaker-row {
   text-transform: uppercase;
   font-size: 18pt;
@@ -276,13 +279,13 @@ body {
 .stars {
   background: transparent url("/images/2016/stars_background.png") repeat;
   background-size: 80%;
-  height: 2000px;
+  height: 2100px;
   opacity: 0.5;
 }
 .stars-deep {
   background: transparent url("/images/2016/stars_background.png") repeat;
   background-size: 70%;
-  height: 1400px;
+  height: 1500px;
   opacity: 0.5;
 }
 .asteroid1 {
