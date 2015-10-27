@@ -44,12 +44,13 @@
   font-style: normal;
 }
 body {
-  background-color: #35267b;
-  color: #dbd3eb;
+  background-color: #35267B;
+  color: #DBD3EB;
   font-size: 24pt;
   line-height: 26pt;
 }
-.container-fluid {
+.parallax__layer--base,
+.parallax__layer--objects {
   max-width: 1500px;
   margin: 0 auto;
 }
@@ -60,14 +61,14 @@ body {
 }
 .navbar-default .navbar-nav,
 .navbar-default .navbar-default .navbar-brand {
-  color: #fc008b;
+  color: #FC008B;
   font-weight: bold;
 }
 .navbar-default .navbar-nav > li > a,
 .navbar-default .navbar-default .navbar-brand > li > a,
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-default .navbar-brand > .active > a {
-  color: #fc008b;
+  color: #FC008B;
 }
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-default .navbar-brand > li > a:hover,
@@ -168,11 +169,11 @@ body {
   line-height: 20pt;
 }
 .ticket-table .ticket-row-odd td {
-  background: #5d4d78;
+  background: #5D4D78;
 }
 .ticket-table .ticket-row-even td {
-  color: #002e46;
-  background: #dbd3eb;
+  color: #002E46;
+  background: #DBD3EB;
 }
 .luchanaut {
   -webkit-animation: float 2s ease-in-out infinite alternate;
