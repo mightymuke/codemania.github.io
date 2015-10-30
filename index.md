@@ -45,25 +45,25 @@ layout: default
       <div class="col-sm-2 hidden-xs"></div>
       <div class="col-sm-2 col-xs-6 speaker-box">
         <div class="speaker-image-container three">
-          <img src="/images/speakers/2016/unnamed.jpg" class="speaker1" />
+          <img src="/images/speakers/2016/sam.jpg" class="speaker1" />
         </div>
         <p>Amanda Laucher</p>
       </div>
       <div class="col-sm-2 col-xs-6 speaker-box">
         <div class="speaker-image-container two">
-          <img src="/images/speakers/2016/unnamed.jpg" class="speaker2" />
+          <img src="/images/speakers/2016/andreia.png" class="speaker2" />
         </div>
         <p>Andreia Gaita</p>
       </div>
       <div class="col-sm-2 col-xs-6 speaker-box">
         <div class="speaker-image-container one">
-          <img src="/images/speakers/2016/unnamed.jpg" class="speaker3"/>
+          <img src="/images/speakers/2016/sam.jpg" class="speaker3"/>
         </div>
         <p>Duretti Hirpa</p>
       </div>
       <div class="col-sm-2 col-xs-6 speaker-box">
         <div class="speaker-image-container two">
-          <img src="/images/speakers/2016/unnamed.jpg" class="speaker4"/>
+          <img src="/images/speakers/2016/sam.jpg" class="speaker4"/>
         </div>
         <p>Ivan Towlson</p>
       </div>
@@ -73,25 +73,25 @@ layout: default
       <div class="col-sm-2 hidden-xs"></div>
       <div class="col-sm-2 col-xs-6 speaker-box">
         <div class="speaker-image-container one">
-          <img src="/images/speakers/2016/unnamed.jpg" class="speaker2" />
+          <img src="/images/speakers/2016/andreia.png" class="speaker2" />
         </div>
         <p>Peter Goodman</p>
       </div>
       <div class="col-sm-2 col-xs-6 speaker-box">
         <div class="speaker-image-container two">
-          <img src="/images/speakers/2016/unnamed.jpg" class="speaker4" />
+          <img src="/images/speakers/2016/sam.jpg" class="speaker4" />
         </div>
         <p>Nicola Gaston</p>
       </div>
       <div class="col-sm-2 col-xs-6 speaker-box">
         <div class="speaker-image-container three">
-          <img src="/images/speakers/2016/unnamed.jpg" class="speaker3"/>
+          <img src="/images/speakers/2016/sam.jpg" class="speaker3"/>
         </div>
         <p>Sam Newman</p>
       </div>
       <div class="col-sm-2 col-xs-6 speaker-box">
         <div class="speaker-image-container two">
-          <img src="/images/speakers/2016/unnamed.jpg" class="speaker1"/>
+          <img src="/images/speakers/2016/sam.jpg" class="speaker1"/>
         </div>
         <p>Katherine Daniels</p>
       </div>
@@ -101,25 +101,25 @@ layout: default
       <div class="col-sm-2 hidden-xs"></div>
       <div class="col-sm-2 col-xs-6 speaker-box">
         <div class="speaker-image-container two">
-          <img src="/images/speakers/2016/unnamed.jpg" class="speaker1" />
+          <img src="/images/speakers/2016/sam.jpg" class="speaker1" />
         </div>
         <p>Speaker 9</p>
       </div>
       <div class="col-sm-2 col-xs-6 speaker-box">
         <div class="speaker-image-container three">
-          <img src="/images/speakers/2016/unnamed.jpg" class="speaker3" />
+          <img src="/images/speakers/2016/sam.jpg" class="speaker3" />
         </div>
         <p>Speaker 10</p>
       </div>
       <div class="col-sm-2 col-xs-6 speaker-box">
         <div class="speaker-image-container one">
-          <img src="/images/speakers/2016/unnamed.jpg" class="speaker1"/>
+          <img src="/images/speakers/2016/sam.jpg" class="speaker1"/>
         </div>
         <p>Speaker 11</p>
       </div>
       <div class="col-sm-2 col-xs-6 speaker-box">
         <div class="speaker-image-container three">
-          <img src="/images/speakers/2016/unnamed.jpg" class="speaker4"/>
+          <img src="/images/speakers/2016/sam.jpg" class="speaker4"/>
         </div>
         <p>Speaker 12</p>
       </div>
