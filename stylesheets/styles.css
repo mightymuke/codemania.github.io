@@ -230,7 +230,7 @@ body {
 }
 .speaker-row .speaker-box {
   text-align: center;
-  height: 155px;
+  height: 200px;
 }
 .speaker-row .speaker-box img {
   width: 150px;
@@ -297,6 +297,9 @@ body {
 .two {
   animation-duration: 10s;
   animation-name: spacejail-rotate-2;
+}
+.three {
+  animation-duration: 6s;
 }
 .luchanaut {
   -webkit-animation: float2 5s ease-in-out infinite alternate;
