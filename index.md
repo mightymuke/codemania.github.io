@@ -44,37 +44,85 @@ layout: default
     <div class="row speaker-row oswald-bold">
       <div class="col-sm-2 hidden-xs"></div>
       <div class="col-sm-2 col-xs-6 speaker-box">
-        <img src="/images/speakers/2016/andrew-sorensen.png"/>
+        <div class="speaker-image-container one">
+          <img src="/images/speakers/2016/unnamed.jpg" class="speaker1" />
+        </div>
         <p>Speaker 1</p>
       </div>
       <div class="col-sm-2 col-xs-6 speaker-box">
-        <img src="/images/speakers/2016/andrew-sorensen.png"/>
+        <div class="speaker-image-container two">
+          <img src="/images/speakers/2016/unnamed.jpg" class="speaker2" />
+        </div>
         <p>Speaker 2</p>
       </div>
       <div class="col-sm-2 col-xs-6 speaker-box">
-        <img src="/images/speakers/2016/andrew-sorensen.png"/>
+        <div class="speaker-image-container one">
+          <img src="/images/speakers/2016/unnamed.jpg" class="speaker3"/>
+        </div>
         <p>Speaker 3</p>
       </div>
       <div class="col-sm-2 col-xs-6 speaker-box">
-        <img src="/images/speakers/2016/andrew-sorensen.png"/>
+        <div class="speaker-image-container two">
+          <img src="/images/speakers/2016/unnamed.jpg" class="speaker4"/>
+        </div>
         <p>Speaker 4</p>
       </div>
       <div class="col-sm-2 hidden-xs"></div>
     </div>
     <div class="row speaker-row oswald-bold">
       <div class="col-sm-2 hidden-xs"></div>
-      <div class="col-sm-2 col-xs-6 speaker-box">Speaker 5</div>
-      <div class="col-sm-2 col-xs-6 speaker-box">Speaker 6</div>
-      <div class="col-sm-2 col-xs-6 speaker-box">Speaker 7</div>
-      <div class="col-sm-2 col-xs-6 speaker-box">Speaker 8</div>
+      <div class="col-sm-2 col-xs-6 speaker-box">
+        <div class="speaker-image-container one">
+          <img src="/images/speakers/2016/unnamed.jpg" class="speaker2" />
+        </div>
+        <p>Speaker 5</p>
+      </div>
+      <div class="col-sm-2 col-xs-6 speaker-box">
+        <div class="speaker-image-container two">
+          <img src="/images/speakers/2016/unnamed.jpg" class="speaker4" />
+        </div>
+        <p>Speaker 6</p>
+      </div>
+      <div class="col-sm-2 col-xs-6 speaker-box">
+        <div class="speaker-image-container two">
+          <img src="/images/speakers/2016/unnamed.jpg" class="speaker3"/>
+        </div>
+        <p>Speaker 7</p>
+      </div>
+      <div class="col-sm-2 col-xs-6 speaker-box">
+        <div class="speaker-image-container two">
+          <img src="/images/speakers/2016/unnamed.jpg" class="speaker1"/>
+        </div>
+        <p>Speaker 8</p>
+      </div>
       <div class="col-sm-2 hidden-xs"></div>
     </div>
     <div class="row speaker-row oswald-bold">
       <div class="col-sm-2 hidden-xs"></div>
-      <div class="col-sm-2 col-xs-6 speaker-box">Speaker 9</div>
-      <div class="col-sm-2 col-xs-6 speaker-box">Speaker 10</div>
-      <div class="col-sm-2 col-xs-6 speaker-box">Speaker 11</div>
-      <div class="col-sm-2 col-xs-6 speaker-box">Speaker 12</div>
+      <div class="col-sm-2 col-xs-6 speaker-box">
+        <div class="speaker-image-container two">
+          <img src="/images/speakers/2016/unnamed.jpg" class="speaker1" />
+        </div>
+        <p>Speaker 9</p>
+      </div>
+      <div class="col-sm-2 col-xs-6 speaker-box">
+        <div class="speaker-image-container two">
+          <img src="/images/speakers/2016/unnamed.jpg" class="speaker3" />
+        </div>
+        <p>Speaker 10</p>
+      </div>
+      <div class="col-sm-2 col-xs-6 speaker-box">
+        <div class="speaker-image-container one">
+          <img src="/images/speakers/2016/unnamed.jpg" class="speaker1"/>
+        </div>
+        <p>Speaker 11</p>
+      </div>
+      <div class="col-sm-2 col-xs-6 speaker-box">
+        <div class="speaker-image-container two">
+          <img src="/images/speakers/2016/unnamed.jpg" class="speaker4"/>
+        </div>
+        <p>Speaker 12</p>
+      </div>
       <div class="col-sm-2 hidden-xs"></div>
     </div>
     <div class="row">

@@ -43,6 +43,96 @@
   font-weight: 200;
   font-style: normal;
 }
+@keyframes float {
+  0% {
+    -webkit-transform: translateY(10px) rotate(-5deg);
+    transform: translateY(10px) rotate(-5deg);
+  }
+  100% {
+    -webkit-transform: translateY(-10px);
+    transform: translateY(-10px);
+  }
+}
+@keyframes float2 {
+  0% {
+    -webkit-transform: translateX(20px) rotate(5deg);
+    transform: translateX(20px) rotate(5deg);
+  }
+  100% {
+    -webkit-transform: translateY(-25px);
+    transform: translateY(-25px);
+  }
+}
+@keyframes float3 {
+  0% {
+    -webkit-transform: translateX(20px) rotate(10deg);
+    transform: translateX(20px) rotate(10deg);
+  }
+  100% {
+    -webkit-transform: translateY(-15px) translateX(-30px) rotate(28deg);
+    transform: translateY(-15px) translateX(-30px) rotate(28deg);
+  }
+}
+@keyframes zoom {
+  0% {
+    transform: rotate(-5deg);
+    transform-origin: 100% 50%;
+  }
+  100% {
+    transform: rotate(2deg);
+    transform-origin: 100% 50%;
+  }
+}
+@keyframes spacejail-skew-1 {
+  0% {
+    transform: skewX(-23deg) skewY(10deg);
+    -webkit-transform: skewX(-23deg) skewY(10deg);
+  }
+  100% {
+    transform: skewX(-32deg);
+    -webkit-transform: skewX(-32deg);
+  }
+}
+@keyframes spacejail-skew-2 {
+  0% {
+    transform: skewX(23deg);
+    -webkit-transform: skewX(23deg);
+  }
+  100% {
+    transform: skewX(32deg);
+    -webkit-transform: skewX(32deg);
+  }
+}
+@keyframes spacejail-skew-3 {
+  0% {
+    transform: skewX(3deg) skewY(15deg);
+    -webkit-transform: skewX(3deg) skewY(15deg);
+  }
+  100% {
+    transform: skewX(32deg) skewY(-5deg);
+    -webkit-transform: skewX(32deg) skewY(-5deg);
+  }
+}
+@keyframes spacejail-rotate-1 {
+  0% {
+    transform: rotateX(-50deg);
+    -webkit-transform: rotateX(-50deg);
+  }
+  100% {
+    transform: rotateX(-20deg);
+    -webkit-transform: rotateX(-20deg);
+  }
+}
+@keyframes spacejail-rotate-2 {
+  0% {
+    transform: rotateX(-70deg);
+    -webkit-transform: rotateX(-70deg);
+  }
+  100% {
+    transform: rotateX(-50deg);
+    -webkit-transform: rotateX(-50deg);
+  }
+}
 body {
   background-color: #35267B;
   color: #dbd3eb;
@@ -140,8 +230,9 @@ body {
 }
 .speaker-row .speaker-box {
   text-align: center;
+  height: 155px;
 }
-.speaker-row .speaker-box > img {
+.speaker-row .speaker-box img {
   width: 150px;
   height: auto;
 }
@@ -181,45 +272,31 @@ body {
   color: #002E46;
   background: #DBD3EB;
 }
-@keyframes float {
-  0% {
-    -webkit-transform: translateY(10px) rotate(-5deg);
-    transform: translateY(10px) rotate(-5deg);
-  }
-  100% {
-    -webkit-transform: translateY(-10px);
-    transform: translateY(-10px);
-  }
+.speaker1 {
+  -webkit-animation: spacejail-skew-1 5s ease-in-out infinite alternate;
+  animation: spacejail-skew-1 5s ease-in-out infinite alternate;
 }
-@keyframes float2 {
-  0% {
-    -webkit-transform: translateX(20px) rotate(5deg);
-    transform: translateX(20px) rotate(5deg);
-  }
-  100% {
-    -webkit-transform: translateY(-25px);
-    transform: translateY(-25px);
-  }
+.speaker2 {
+  -webkit-animation: spacejail-skew-1 9s ease-in-out infinite alternate;
+  animation: spacejail-skew-1 9s ease-in-out infinite alternate;
 }
-@keyframes float3 {
-  0% {
-    -webkit-transform: translateX(20px) rotate(10deg);
-    transform: translateX(20px) rotate(10deg);
-  }
-  100% {
-    -webkit-transform: translateY(-15px) translateX(-30px) rotate(28deg);
-    transform: translateY(-15px) translateX(-30px) rotate(28deg);
-  }
+.speaker3 {
+  -webkit-animation: spacejail-skew-3 10s ease-in-out infinite alternate;
+  animation: spacejail-skew-3 10s ease-in-out infinite alternate;
 }
-@keyframes zoom {
-  0% {
-    -webkit-transform: scale(0.95);
-    transform: scale(0.95) rotate(5deg);
-  }
-  100% {
-    -webkit-transform: scale(1.02);
-    transform: scale(1.02);
-  }
+.speaker4 {
+  -webkit-animation: spacejail-skew-2 3s ease-in-out infinite alternate;
+  animation: spacejail-skew-2 3s ease-in-out infinite alternate;
+}
+.speaker-image-container {
+  -webkit-animation: spacejail-rotate-1 15s ease-in-out infinite alternate;
+  animation: spacejail-rotate-1 15s ease-in-out infinite alternate;
+  height: 205px;
+  margin-bottom: -50px;
+}
+.two {
+  animation-duration: 10s;
+  animation-name: spacejail-rotate-2;
 }
 .luchanaut {
   -webkit-animation: float2 5s ease-in-out infinite alternate;
