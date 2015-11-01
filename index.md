@@ -138,7 +138,7 @@ layout: indexlayout
         <p>Codemania is back and better than ever.</p>
         <p>This year, instead of one speaker at one workshop, you can join our world-class speakers and an exclusive gathering of your Codemania family for the <em>whole weekend</em> after <a href="/agenda.html" class="hilite">Codemania Conference</a>, in the wonderful surrounds of one of Auckland's most picturesque bush settings. It's an unconference (well, a semi-conference), and we're calling it <a href="/agenda.html#codemania-conversations" class="hilite">Codemania Conversations</a>.</p>
         <p>Codemania Conference will be held at the luxurious Langham Hotel on Friday April 1st, and the extended Codemania Conversations unconference will be at a secret hideaway 40 minutes drive from Auckland City, on Saturday 2nd and Sunday 3rd April.</p>
-        <p>Like always, Codemania is for nice people, like you. Please have a read of our <a href="/benice.html">Be Nice Policy</a>.</p>
+        <p>Like always, Codemania is for nice people, like you. Please have a read of our <a class="hilite" href="/benice.html">Be Nice Policy</a>.</p>
       </div>
       <div class="col-sm-3 col-xs-1">
         <img src="/images/2016/luchanaut_3.svg" class="luchanaut3 hidden-xs" />
