@@ -172,7 +172,7 @@ body {
 }
 .basic-content-page {
   background: #35267B url('/images/2016/stars_background.svg') 0 0 repeat;
-  margin-top: 30px;
+  margin-top: 70px;
   margin-bottom: 40px;
 }
 .navbar-default {
@@ -567,13 +567,6 @@ a.hilite:hover {
 }
 .breathingSpace {
   margin-top: 45px;
-}
-#codemania-anti-harassment-policy {
-  margin-top: 70px;
-  text-align: center;
-}
-tbody {
-  font-size: 1.5em;
 }
 @media screen and (max-width: 48em) {
   #menu a {
