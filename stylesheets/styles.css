@@ -571,6 +571,9 @@ a.hilite:hover {
   margin-top: 70px;
   text-align: center;
 }
+tbody {
+  font-size: 1.5em;
+}
 @media screen and (max-width: 48em) {
   #menu a {
     padding: 0;
