@@ -133,6 +133,16 @@
     -webkit-transform: rotateX(-5deg);
   }
 }
+@keyframes spacejail-rotate-4 {
+  0% {
+    transform: rotateY(0deg);
+    -webkit-transform: rotateY(0deg);
+  }
+  100% {
+    transform: rotateY(-180deg);
+    -webkit-transform: rotateY(-180deg);
+  }
+}
 body {
   background-color: #35267B;
   color: #dbd3eb;
@@ -293,6 +303,10 @@ body {
   animation: spacejail-rotate-1 30s ease-in-out infinite alternate;
   height: 205px;
   margin-bottom: -60px;
+}
+.speaker-image-container:hover {
+  -webkit-animation: spacejail-rotate-4 0.1s cubic-bezier(0.1, 0.7, 1, 0.1) 5 alternate forwards;
+  animation: spacejail-rotate-4 0.1s cubic-bezier(0.1, 0.7, 1, 0.1) 5 alternate forwards;
 }
 .two {
   animation-duration: 20s;
