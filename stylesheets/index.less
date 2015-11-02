@@ -197,10 +197,11 @@ a.hilite:hover {
 .parallax {
   perspective: 300px;
   height: 100vh;
-  overflow-x: scroll;
-  overflow-y: auto;
+  overflow-x: hidden;
   -webkit-transform-style: preserve-3d;
   transform-style: preserve-3d
+  overflow-y: scroll; /* has to be scroll, not auto */
+  -webkit-overflow-scrolling: touch;
 }
 
 .parallax__layer {
