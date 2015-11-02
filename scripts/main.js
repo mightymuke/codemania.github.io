@@ -21,3 +21,7 @@ $('a[href*=#]:not([href=#])').click(function() {
 $('.navbar-collapse a').click(function(){
     $(".navbar-collapse").collapse('hide');
 });
+
+$('.twitter-link').click(function(e){
+  window.open('http://twitter.com/'+this.id);
+});

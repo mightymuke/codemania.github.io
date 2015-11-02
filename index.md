@@ -43,85 +43,72 @@ layout: indexlayout
     </div>
     <div class="row speaker-row oswald-bold">
       <div class="col-sm-2 hidden-xs"></div>
-      <div class="col-sm-2 col-xs-6 speaker-box">
-        <div class="speaker-image-container three">
-          <img src="/images/speakers/2016/sam.jpg" class="speaker1" />
-        </div>
-        <p>Amanda Laucher</p>
-      </div>
-      <div class="col-sm-2 col-xs-6 speaker-box">
+      <div class="col-sm-2 col-xs-6 speaker-box twitter-link" id="beerops">
         <div class="speaker-image-container two">
-          <img src="/images/speakers/2016/andreia.png" class="speaker2" />
-        </div>
-        <p>Andreia Gaita</p>
-      </div>
-      <div class="col-sm-2 col-xs-6 speaker-box">
-        <div class="speaker-image-container one">
-          <img src="/images/speakers/2016/sam.jpg" class="speaker3"/>
-        </div>
-        <p>Duretti Hirpa</p>
-      </div>
-      <div class="col-sm-2 col-xs-6 speaker-box">
-        <div class="speaker-image-container two">
-          <img src="/images/speakers/2016/sam.jpg" class="speaker4"/>
-        </div>
-        <p>Ivan Towlson</p>
-      </div>
-      <div class="col-sm-2 hidden-xs"></div>
-    </div>
-    <div class="row speaker-row oswald-bold">
-      <div class="col-sm-2 hidden-xs"></div>
-      <div class="col-sm-2 col-xs-6 speaker-box">
-        <div class="speaker-image-container one">
-          <img src="/images/speakers/2016/andreia.png" class="speaker2" />
-        </div>
-        <p>Peter Goodman</p>
-      </div>
-      <div class="col-sm-2 col-xs-6 speaker-box">
-        <div class="speaker-image-container two">
-          <img src="/images/speakers/2016/sam.jpg" class="speaker4" />
-        </div>
-        <p>Nicola Gaston</p>
-      </div>
-      <div class="col-sm-2 col-xs-6 speaker-box">
-        <div class="speaker-image-container three">
-          <img src="/images/speakers/2016/sam.jpg" class="speaker3"/>
-        </div>
-        <p>Sam Newman</p>
-      </div>
-      <div class="col-sm-2 col-xs-6 speaker-box">
-        <div class="speaker-image-container two">
-          <img src="/images/speakers/2016/sam.jpg" class="speaker1"/>
+          <img src="/images/speakers/2016/katherine_daniels.png" class="speaker1"/>
         </div>
         <p>Katherine Daniels</p>
+        <p class="byline">Ops Witch @ <span class="hilite">Etsy</span></p>
+      </div>
+      <div class="col-sm-2 col-xs-6 speaker-box twitter-link" id="sh4na">
+        <div class="speaker-image-container two">
+          <img src="/images/speakers/2016/andreia_gaita.png" class="speaker2" />
+        </div>
+        <p>Andreia Gaita</p>
+        <p class="byline">C/C++/C# @ <span class="hilite">GitHub</span></p>
+      </div>
+      <div class="col-sm-2 col-xs-6 speaker-box twitter-link" id="duretti">
+        <div class="speaker-image-container one">
+          <img src="/images/speakers/2016/duretti_hirpa.png" class="speaker3"/>
+        </div>
+        <p>Duretti Hirpa</p>
+        <p class="byline">Front End @ <span class="hilite">Slack</span></p>
+      </div>
+      <div class="col-sm-2 col-xs-6 speaker-box twitter-link" id="ppog_penguin">
+        <div class="speaker-image-container two">
+          <img src="/images/speakers/2016/ivan_towlson.png" class="speaker4"/>
+        </div>
+        <p>Ivan Towlson</p>
+        <p class="byline">Penguins @ <span class="hilite">Microsoft</span></p>
       </div>
       <div class="col-sm-2 hidden-xs"></div>
     </div>
     <div class="row speaker-row oswald-bold">
       <div class="col-sm-2 hidden-xs"></div>
-      <div class="col-sm-2 col-xs-6 speaker-box">
-        <div class="speaker-image-container two">
-          <img src="/images/speakers/2016/sam.jpg" class="speaker1" />
-        </div>
-        <p>Speaker 9</p>
-      </div>
-      <div class="col-sm-2 col-xs-6 speaker-box">
-        <div class="speaker-image-container three">
-          <img src="/images/speakers/2016/sam.jpg" class="speaker3" />
-        </div>
-        <p>Speaker 10</p>
-      </div>
-      <div class="col-sm-2 col-xs-6 speaker-box">
+      <div class="col-sm-2 col-xs-6 speaker-box twitter-link" id="petegoo">
         <div class="speaker-image-container one">
-          <img src="/images/speakers/2016/sam.jpg" class="speaker1"/>
+          <img src="/images/speakers/2016/peter_goodman.png" class="speaker2" />
         </div>
-        <p>Speaker 11</p>
+        <p>Peter Goodman</p>
+        <p class="byline">Devops @ <span class="hilite">PushPay</span></p>
       </div>
-      <div class="col-sm-2 col-xs-6 speaker-box">
-        <div class="speaker-image-container three">
-          <img src="/images/speakers/2016/sam.jpg" class="speaker4"/>
+      <div class="col-sm-2 col-xs-6 speaker-box twitter-link" id="nicgaston">
+        <div class="speaker-image-container two">
+          <img src="/images/speakers/2016/nicola_gaston.png" class="speaker4" />
         </div>
-        <p>Speaker 12</p>
+        <p>Nicola Gaston</p>
+        <p class="byline">Scientist @ <span class="hilite">Victoria Uni</span></p>
+      </div>
+      <div class="col-sm-2 col-xs-6 speaker-box twitter-link" id="samnewman">
+        <div class="speaker-image-container three">
+          <img src="/images/speakers/2016/sam_newman.png" class="speaker3"/>
+        </div>
+        <p>Sam Newman</p>
+        <p class="byline">Microservices @ <span class="hilite">Thoughtworks</span></p>
+      </div>
+      <div class="col-sm-2 col-xs-6 speaker-box twitter-link" id="pandamonial">
+        <div class="speaker-image-container three">
+          <img src="/images/speakers/2016/amanda_laucher.png" class="speaker1" />
+        </div>
+        <p>Amanda Laucher</p>
+        <p class="byline">Consultant @ <span class="hilite">Neo Technology</span></p>
+      </div>
+      <div class="col-sm-2 hidden-xs"></div>
+    </div>
+    <div class="row">
+      <div class="col-sm-2 hidden-xs"></div>
+      <div class="col-sm-8 col-xs-12 center">
+      <p>... and several more speakers to come ...</p>
       </div>
       <div class="col-sm-2 hidden-xs"></div>
     </div>

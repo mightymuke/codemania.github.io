@@ -150,13 +150,9 @@
   }
 }
 @keyframes spacejail-rotate-4 {
-  0% {
+  100% {
     transform: rotateY(0deg);
     -webkit-transform: rotateY(0deg);
-  }
-  100% {
-    transform: rotateY(-180deg);
-    -webkit-transform: rotateY(-180deg);
   }
 }
 body {
@@ -264,7 +260,7 @@ a.hilite:hover {
 }
 .speaker-row .speaker-box {
   text-align: center;
-  height: 250px;
+  height: 290px;
 }
 .speaker-row .speaker-box img {
   width: 150px;
@@ -329,8 +325,8 @@ a.hilite:hover {
   margin-bottom: -60px;
 }
 .speaker-image-container:hover {
-  -webkit-animation: spacejail-rotate-4 0.1s cubic-bezier(0.1, 0.7, 1, 0.1) 5 alternate forwards;
-  animation: spacejail-rotate-4 0.1s cubic-bezier(0.1, 0.7, 1, 0.1) 5 alternate forwards;
+  -webkit-animation: spacejail-rotate-4 2.5s cubic-bezier(0.1, 0.7, 1, 0.1) 1 alternate forwards;
+  animation: spacejail-rotate-4 2.5s cubic-bezier(0.1, 0.7, 1, 0.1) 1 alternate forwards;
 }
 .two {
   animation-duration: 20s;
@@ -338,6 +334,16 @@ a.hilite:hover {
 }
 .three {
   animation-duration: 7s;
+}
+.twitter-link {
+  cursor: hand;
+}
+.byline {
+  font-size: 0.8em;
+  line-height: 1.1em;
+  text-transform: none;
+  margin-top: -20px;
+  font-weight: light;
 }
 .luchanaut {
   -webkit-animation: float2 5s ease-in-out infinite alternate;
