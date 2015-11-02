@@ -30,7 +30,7 @@ layout: indexlayout
         <img src="/images/2016/masthead.svg" class="masthead" id="masthead" />
       </div>
       <div class="col-sm-2 col-sm-offset-0 col-xs-6 col-xs-offset-3">
-        <a href="http://lilregie.com/"><img src="/images/2016/buy-tickets.svg" class="buytickets" /></a>
+        <a href="https://codemania-2016.lilregie.com/"><img src="/images/2016/buy-tickets.svg" class="buytickets" /></a>
       </div>
       <div class="col-sm-1 hidden-xs">
         <img src="/images/2016/luchanaut_2.svg" class="luchanaut2" />
@@ -55,7 +55,7 @@ layout: indexlayout
           <img src="/images/speakers/2016/andreia_gaita.png" class="speaker2" />
         </div>
         <p>Andreia Gaita</p>
-        <p class="byline">C/C++/C# @ <span class="hilite">GitHub</span></p>
+        <p class="byline">Mono / .NET @ <span class="hilite">GitHub</span></p>
       </div>
       <div class="col-sm-2 col-xs-6 speaker-box twitter-link" id="duretti">
         <div class="speaker-image-container one">
@@ -125,7 +125,7 @@ layout: indexlayout
         <p>Codemania is back and better than ever.</p>
         <p>This year, instead of one speaker at one workshop, you can join our world-class speakers and an exclusive gathering of your Codemania family for the <em>whole weekend</em> after <a href="/agenda.html" class="hilite">Codemania Conference</a>, in the wonderful surrounds of one of Auckland's most picturesque bush settings. It's an unconference (well, a semi-conference), and we're calling it <a href="/agenda.html#codemania-conversations" class="hilite">Codemania Conversations</a>.</p>
         <p>Codemania Conference will be held at the luxurious Langham Hotel on Friday April 1st, and the extended Codemania Conversations unconference will be at a secret hideaway 40 minutes drive from Auckland City, on Saturday 2nd and Sunday 3rd April.</p>
-        <p>Like always, Codemania is for nice people, like you. Please have a read of our <a class="hilite" href="/benice.html">Be Nice Policy</a>.</p>
+        <p>Like always, Codemania is for nice people, like you. Please have a read of our <a class="hilite" href="/be-nice.html">Be Nice Policy</a>.</p>
       </div>
       <div class="col-sm-3 col-xs-1">
         <img src="/images/2016/luchanaut_3.svg" class="luchanaut3 hidden-xs" />
@@ -225,7 +225,7 @@ layout: indexlayout
     </div>
     <div class="row">
       <div class="col-xs-10 col-xs-offset-1" id="footer">
-        <p>If you'd like to help sponsor New Zealand's most amazing conference for software developers, please get in touch so we can discuss options. <a href="mailto:hello@codemania.co.nz">hello@codemania.co.nz</a></p>
+        <p>If you'd like to help sponsor New Zealand's most amazing conference for software developers, please get in touch so we can discuss options. <a class="hilite email" href="mailto:hello@codemania.co.nz">hello@codemania.co.nz</a></p>
       </div>
     </div>
   </div>
