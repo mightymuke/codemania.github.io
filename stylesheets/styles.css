@@ -339,7 +339,7 @@ a.hilite:hover {
   cursor: hand;
 }
 .byline {
-  font-size: 0.8em;
+  font-size: 0.7em;
   line-height: 1.1em;
   text-transform: none;
   margin-top: -20px;
@@ -406,13 +406,13 @@ a.hilite:hover {
 .stars {
   background: transparent url("/images/2016/stars_background.png") repeat;
   background-size: 80%;
-  height: 2400px;
+  height: 2300px;
   opacity: 0.5;
 }
 .stars-deep {
   background: transparent url("/images/2016/stars_background.png") repeat;
   background-size: 70%;
-  height: 1800px;
+  height: 1600px;
   opacity: 0.5;
 }
 .asteroid1 {
