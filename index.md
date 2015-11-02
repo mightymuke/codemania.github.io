@@ -30,7 +30,7 @@ layout: indexlayout
         <img src="/images/2016/masthead.svg" class="masthead" id="masthead" />
       </div>
       <div class="col-sm-2 col-sm-offset-0 col-xs-6 col-xs-offset-3">
-        <a href="http://lilregie.com/"><img src="/images/2016/buy-tickets.svg" class="buytickets" /></a>
+        <a href="https://codemania-2016.lilregie.com/"><img src="/images/2016/buy-tickets.svg" class="buytickets" /></a>
       </div>
       <div class="col-sm-1 hidden-xs">
         <img src="/images/2016/luchanaut_2.svg" class="luchanaut2" />
