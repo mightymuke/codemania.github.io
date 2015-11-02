@@ -25,3 +25,7 @@ $('.navbar-collapse a').click(function(){
 $('.twitter-link').click(function(e){
   window.open('http://twitter.com/'+this.id);
 });
+
+$('.tickets-box table').click(function(){
+  window.open('https://codemania-2016.lilregie.com/');
+});
