@@ -6,7 +6,7 @@ jQuery.fn.scrollTo = function(elem, speed) {
     return this;
 };
 
-$('a[href*=#]:not([href=#])').click(function() {
+$('a[href*=#]:not([href=#])').click(function(e) {
     if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'')
       || location.hostname == this.hostname) {
       var target = $(this.hash);
@@ -16,6 +16,7 @@ $('a[href*=#]:not([href=#])').click(function() {
           return false;
       }
     }
+    e.preventDefault();
   });
 
 $('.navbar-collapse a').click(function(){
