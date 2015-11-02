@@ -293,7 +293,6 @@ a.hilite:hover {
 .tickets-box table td {
   width: 25%;
   padding: 10px;
-  cursor: pointer;
 }
 .tickets-box table p {
   margin: 0;
@@ -301,10 +300,12 @@ a.hilite:hover {
 }
 .tickets-box table .ticket-row-odd td {
   background: #5D4D78;
+  cursor: pointer;
 }
 .tickets-box table .ticket-row-even td {
   color: #002E46;
   background: #DBD3EB;
+  cursor: pointer;
 }
 .speaker1 {
   -webkit-animation: spacejail-skew-1 10s ease-in-out infinite alternate;
@@ -346,7 +347,7 @@ a.hilite:hover {
   font-size: 0.7em;
   line-height: 1.3em;
   text-transform: none;
-  margin-top: -10px;
+  margin-top: -20px;
   font-weight: light;
 }
 .luchanaut {

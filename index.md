@@ -206,17 +206,17 @@ layout: indexlayout
     <div class="row sponsor-row">
       <div class="col-sm-10 col-sm-offset-1 col-xs-12">
         <div class="row">
-          <div class="col-md-4 col-sm-6 col-xs-12 cm-sponsor-box">
+          <div class="col-lg-4 col-sm-6 col-xs-12 cm-sponsor-box">
             <a href="http://pushpay.com">
               <img src="/images/sponsors/logo_pushpay.png" />
             </a>
           </div>
-          <div class="col-md-4 col-sm-6 col-xs-12 cm-sponsor-box">
+          <div class="col-lg-4 col-sm-6 col-xs-12 cm-sponsor-box">
             <a href="http://www.microsoft.co.nz">
               <img src="/images/sponsors/logo_microsoft.png" />
             </a>
           </div>
-          <div class="col-md-4 col-sm-6 col-xs-12 cm-sponsor-box">
+          <div class="col-lg-4 col-sm-6 col-xs-12 cm-sponsor-box">
             <img src="/images/sponsors/logo_raygun.png" />
           </div>
         </div>
