@@ -1,5 +1,6 @@
 ---
 layout: indexlayout
+title: Codemania 2016 - New Zealand's Premier Software Conference
 ---
 <div class="parallax" id="parallax-box">
   <div class="parallax__layer parallax__layer--back">
