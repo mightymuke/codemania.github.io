@@ -237,6 +237,9 @@ body {
 .hilite {
   color: #fc008b;
 }
+.hilite.email {
+  text-decoration: underline;
+}
 a.hilite:hover {
   color: #fc008b;
 }
