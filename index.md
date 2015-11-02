@@ -55,7 +55,7 @@ layout: indexlayout
           <img src="/images/speakers/2016/andreia_gaita.png" class="speaker2" />
         </div>
         <p>Andreia Gaita</p>
-        <p class="byline">C/C++/C# @ <span class="hilite">GitHub</span></p>
+        <p class="byline">Mono / .NET @ <span class="hilite">GitHub</span></p>
       </div>
       <div class="col-sm-2 col-xs-6 speaker-box twitter-link" id="duretti">
         <div class="speaker-image-container one">
