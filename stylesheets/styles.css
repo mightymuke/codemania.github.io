@@ -11,7 +11,7 @@
 }
 .basic-content-page h1,
 .basic-content-page h2 {
-  color: #FC008B;
+  color: #fc008b;
   text-transform: uppercase;
   font-weight: normal;
   text-shadow: 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb, 0 0 4px #dbd3eb;
@@ -156,7 +156,7 @@
   }
 }
 body {
-  background-color: #35267B;
+  background-color: #35267b;
   color: #dbd3eb;
   font-size: 24pt;
   line-height: 26pt;
@@ -167,7 +167,7 @@ body {
   margin: 0 auto;
 }
 .basic-content-page {
-  background: #35267B url('/images/2016/stars_background.svg') 0 0 repeat;
+  background: #35267b url('/images/2016/stars_background.svg') 0 0 repeat;
   margin-top: 70px;
   margin-bottom: 40px;
 }
@@ -178,14 +178,14 @@ body {
 }
 .navbar-default .navbar-nav,
 .navbar-default .navbar-default .navbar-brand {
-  color: #FC008B;
+  color: #fc008b;
   font-weight: bold;
 }
 .navbar-default .navbar-nav > li > a,
 .navbar-default .navbar-default .navbar-brand > li > a,
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-default .navbar-brand > .active > a {
-  color: #FC008B;
+  color: #fc008b;
 }
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-default .navbar-brand > li > a:hover,
@@ -235,10 +235,10 @@ body {
   margin-left: -90px;
 }
 .hilite {
-  color: #FC008B;
+  color: #fc008b;
 }
 a.hilite:hover {
-  color: #FC008B;
+  color: #fc008b;
 }
 .titleImageContainer {
   height: 130px;
@@ -296,11 +296,11 @@ a.hilite:hover {
   line-height: 20pt;
 }
 .tickets-box table .ticket-row-odd td {
-  background: #5D4D78;
+  background: #5d4d78;
 }
 .tickets-box table .ticket-row-even td {
-  color: #002E46;
-  background: #DBD3EB;
+  color: #002e46;
+  background: #dbd3eb;
 }
 .speaker1 {
   -webkit-animation: spacejail-skew-1 10s ease-in-out infinite alternate;
