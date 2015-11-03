@@ -10,7 +10,7 @@ $('.nav-link').click(function(e) {
   e.preventDefault();
 });
 
-$('.twitter-link').click(function(e){
+$('.speaker-link').click(function(e){
   window.open('http://twitter.com/'+this.id);
 });
 
