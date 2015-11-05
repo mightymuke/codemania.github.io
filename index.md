@@ -227,7 +227,7 @@ title: Codemania 2016 - New Zealand's Premier Software Conference
     </div>
     <div class="row">
       <div class="col-xs-10 col-xs-offset-1" id="footer">
-        <p>If you'd like to help sponsor New Zealand's most amazing conference for software developers, please get in touch so we can discuss options. <a class="hilite email" href="mailto:hello@codemania.co.nz">hello@codemania.co.nz</a></p>
+        <p>If you'd like to help sponsor New Zealand's most amazing conference for software developers, please get in touch so we can discuss options. <a class="hilite email" href="mailto:sponsors@codemania.co.nz">sponsors@codemania.co.nz</a></p>
       </div>
     </div>
   </div>
