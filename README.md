@@ -1,1 +1,3 @@
-# codemania.github.io
+# Codemania
+
+http://codemania.io
