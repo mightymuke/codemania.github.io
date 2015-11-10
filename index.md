@@ -219,6 +219,11 @@ title: Codemania 2016 - New Zealand's Premier Software Conference
             </a>
           </div>
           <div class="col-lg-4 col-sm-6 col-xs-12 cm-sponsor-box">
+            <a href="http://www.trademe.co.nz">
+              <img src="/images/sponsors/logo_trademe.png" />
+            </a>
+          </div>
+          <div class="col-lg-4 col-sm-6 col-xs-12 cm-sponsor-box">
             <img src="/images/sponsors/logo_raygun.png" />
           </div>
         </div>
