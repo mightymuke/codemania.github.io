@@ -51,12 +51,37 @@ title: Codemania 2016 - New Zealand's Premier Software Conference
         <p>Katherine Daniels</p>
         <p class="byline">Ops Witch @ <span class="hilite">Etsy</span></p>
       </div>
+      <div class="col-sm-2 col-xs-6 speaker-box speaker-link" id="garybernhardt">
+        <div class="speaker-image-container two">
+          <img src="/images/speakers/2016/gary_bernhardt.png" class="speaker2" />
+        </div>
+        <p>Gary Bernhardt</p>
+        <p class="byline">Guru @ <span class="hilite">Destroy All Software</span></p>
+      </div>
       <div class="col-sm-2 col-xs-6 speaker-box speaker-link" id="sh4na">
         <div class="speaker-image-container two">
-          <img src="/images/speakers/2016/andreia_gaita.png" class="speaker2" />
+          <img src="/images/speakers/2016/andreia_gaita.png" class="speaker3" />
         </div>
         <p>Andreia Gaita</p>
         <p class="byline">Mono / .NET @ <span class="hilite">GitHub</span></p>
+      </div>
+      <div class="col-sm-2 col-xs-6 speaker-box speaker-link" id="samnewman">
+        <div class="speaker-image-container three">
+          <img src="/images/speakers/2016/sam_newman.png" class="speaker4"/>
+        </div>
+        <p>Sam Newman</p>
+        <p class="byline">Microservices @ <span class="hilite">Thoughtworks</span></p>
+      </div>
+      <div class="col-sm-2 hidden-xs"></div>
+    </div>
+    <div class="row speaker-row oswald-bold">
+      <div class="col-sm-2 hidden-xs"></div>
+      <div class="col-sm-2 col-xs-6 speaker-box speaker-link" id="ppog_penguin">
+        <div class="speaker-image-container two">
+          <img src="/images/speakers/2016/ivan_towlson.png" class="speaker4"/>
+        </div>
+        <p>Ivan Towlson</p>
+        <p class="byline">Penguins @ <span class="hilite">Microsoft</span></p>
       </div>
       <div class="col-sm-2 col-xs-6 speaker-box speaker-link" id="duretti">
         <div class="speaker-image-container one">
@@ -65,37 +90,12 @@ title: Codemania 2016 - New Zealand's Premier Software Conference
         <p>Duretti Hirpa</p>
         <p class="byline">Front End @ <span class="hilite">Slack</span></p>
       </div>
-      <div class="col-sm-2 col-xs-6 speaker-box speaker-link" id="ppog_penguin">
-        <div class="speaker-image-container two">
-          <img src="/images/speakers/2016/ivan_towlson.png" class="speaker4"/>
-        </div>
-        <p>Ivan Towlson</p>
-        <p class="byline">Penguins @ <span class="hilite">Microsoft</span></p>
-      </div>
-      <div class="col-sm-2 hidden-xs"></div>
-    </div>
-    <div class="row speaker-row oswald-bold">
-      <div class="col-sm-2 hidden-xs"></div>
       <div class="col-sm-2 col-xs-6 speaker-box speaker-link" id="petegoo">
         <div class="speaker-image-container one">
           <img src="/images/speakers/2016/peter_goodman.png" class="speaker2" />
         </div>
         <p>Peter Goodman</p>
         <p class="byline">Devops @ <span class="hilite">PushPay</span></p>
-      </div>
-      <div class="col-sm-2 col-xs-6 speaker-box speaker-link" id="nicgaston">
-        <div class="speaker-image-container two">
-          <img src="/images/speakers/2016/nicola_gaston.png" class="speaker4" />
-        </div>
-        <p>Nicola Gaston</p>
-        <p class="byline">Scientist @ <span class="hilite">Victoria Uni</span></p>
-      </div>
-      <div class="col-sm-2 col-xs-6 speaker-box speaker-link" id="samnewman">
-        <div class="speaker-image-container three">
-          <img src="/images/speakers/2016/sam_newman.png" class="speaker3"/>
-        </div>
-        <p>Sam Newman</p>
-        <p class="byline">Microservices @ <span class="hilite">Thoughtworks</span></p>
       </div>
       <div class="col-sm-2 col-xs-6 speaker-box speaker-link" id="pandamonial">
         <div class="speaker-image-container three">
@@ -106,10 +106,21 @@ title: Codemania 2016 - New Zealand's Premier Software Conference
       </div>
       <div class="col-sm-2 hidden-xs"></div>
     </div>
+    <div class="row speaker-row oswald-bold">
+      <div class="col-sm-2 hidden-xs"></div>
+      <div class="col-sm-2 col-xs-6 speaker-box speaker-link" id="nicgaston">
+        <div class="speaker-image-container two">
+          <img src="/images/speakers/2016/nicola_gaston.png" class="speaker4" />
+        </div>
+        <p>Nicola Gaston</p>
+        <p class="byline">Scientist @ <span class="hilite">Victoria Uni</span></p>
+      </div>
+      <div class="col-sm-2 hidden-xs"></div>
+    </div>
     <div class="row">
       <div class="col-sm-2 hidden-xs"></div>
       <div class="col-sm-8 col-xs-12 center">
-      <p>... and several more speakers to come ...</p>
+      <p>... and more speakers to come ...</p>
       </div>
       <div class="col-sm-2 hidden-xs"></div>
     </div>
