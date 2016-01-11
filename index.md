@@ -102,7 +102,7 @@ title: Codemania 2016 - New Zealand's Premier Software Conference
           <img src="/images/speakers/2016/amanda_laucher.png" class="speaker1" />
         </div>
         <p>Amanda Laucher</p>
-        <p class="byline">Consultant @ <span class="hilite">Neo Technology</span></p>
+        <p class="byline">President @ <span class="hilite">Mined Minds</span></p>
       </div>
       <div class="col-sm-2 hidden-xs"></div>
     </div>
