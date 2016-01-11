@@ -115,6 +115,15 @@ title: Codemania 2016 - New Zealand's Premier Software Conference
         <p>Nicola Gaston</p>
         <p class="byline">Scientist @ <span class="hilite">Victoria Uni</span></p>
       </div>
+    <div class="row speaker-row oswald-bold">
+      <div class="col-sm-2 hidden-xs"></div>
+      <div class="col-sm-2 col-xs-6 speaker-box speaker-link" id="noopkat">
+        <div class="speaker-image-container two">
+          <img src="/images/speakers/2016/suz_hinton.png" class="speaker2" />
+        </div>
+        <p>Suz Hinton</p>
+        <p class="byline">tech enthusiast from <span class="hilite">the nerdiverse</span></p>
+      </div>
       <div class="col-sm-2 hidden-xs"></div>
     </div>
     <div class="row">
