@@ -76,12 +76,12 @@ title: Codemania 2016 - New Zealand's Premier Software Conference
     </div>
     <div class="row speaker-row oswald-bold">
       <div class="col-sm-2 hidden-xs"></div>
-      <div class="col-sm-2 col-xs-6 speaker-box speaker-link" id="ppog_penguin">
+      <div class="col-sm-2 col-xs-6 speaker-box speaker-link" id="noopkat">
         <div class="speaker-image-container two">
-          <img src="/images/speakers/2016/ivan_towlson.png" class="speaker4"/>
+          <img src="/images/speakers/2016/suz_hinton.png" class="speaker2" />
         </div>
-        <p>Ivan Towlson</p>
-        <p class="byline">Penguins @ <span class="hilite">Microsoft</span></p>
+        <p>Suz Hinton</p>
+        <p class="byline">tech enthusiast from <span class="hilite">the nerdiverse</span></p>
       </div>
       <div class="col-sm-2 col-xs-6 speaker-box speaker-link" id="duretti">
         <div class="speaker-image-container one">
@@ -90,12 +90,12 @@ title: Codemania 2016 - New Zealand's Premier Software Conference
         <p>Duretti Hirpa</p>
         <p class="byline">Front End @ <span class="hilite">Slack</span></p>
       </div>
-      <div class="col-sm-2 col-xs-6 speaker-box speaker-link" id="petegoo">
-        <div class="speaker-image-container one">
-          <img src="/images/speakers/2016/peter_goodman.png" class="speaker2" />
+      <div class="col-sm-2 col-xs-6 speaker-box speaker-link" id="ppog_penguin">
+        <div class="speaker-image-container two">
+          <img src="/images/speakers/2016/ivan_towlson.png" class="speaker4"/>
         </div>
-        <p>Peter Goodman</p>
-        <p class="byline">Devops @ <span class="hilite">PushPay</span></p>
+        <p>Ivan Towlson</p>
+        <p class="byline">Penguins @ <span class="hilite">Microsoft</span></p>
       </div>
       <div class="col-sm-2 col-xs-6 speaker-box speaker-link" id="pandamonial">
         <div class="speaker-image-container three">
@@ -110,19 +110,24 @@ title: Codemania 2016 - New Zealand's Premier Software Conference
       <div class="col-sm-2 hidden-xs"></div>
       <div class="col-sm-2 col-xs-6 speaker-box speaker-link" id="nicgaston">
         <div class="speaker-image-container two">
-          <img src="/images/speakers/2016/nicola_gaston.png" class="speaker4" />
+          <img src="/images/speakers/2016/nicola_gaston.png" class="speaker3" />
         </div>
         <p>Nicola Gaston</p>
         <p class="byline">Scientist @ <span class="hilite">Victoria Uni</span></p>
       </div>
-    <div class="row speaker-row oswald-bold">
-      <div class="col-sm-2 hidden-xs"></div>
-      <div class="col-sm-2 col-xs-6 speaker-box speaker-link" id="noopkat">
-        <div class="speaker-image-container two">
-          <img src="/images/speakers/2016/suz_hinton.png" class="speaker2" />
+      <div class="col-sm-2 col-xs-6 speaker-box speaker-link" id="petegoo">
+        <div class="speaker-image-container one">
+          <img src="/images/speakers/2016/peter_goodman.png" class="speaker4" />
         </div>
-        <p>Suz Hinton</p>
-        <p class="byline">tech enthusiast from <span class="hilite">the nerdiverse</span></p>
+        <p>Peter Goodman</p>
+        <p class="byline">Devops @ <span class="hilite">PushPay</span></p>
+      </div>
+      <div class="col-sm-2 col-xs-6 speaker-box speaker-link" id="sarahmei">
+        <div class="speaker-image-container one">
+          <img src="/images/speakers/2016/sarah_mei.png" class="speaker1" />
+        </div>
+        <p>Sarah Mei</p>
+        <p class="byline">Chief Consultant @ <span class="hilite">DevMynd</span></p>
       </div>
       <div class="col-sm-2 hidden-xs"></div>
     </div>
