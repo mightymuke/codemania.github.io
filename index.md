@@ -129,6 +129,12 @@ title: Codemania 2016 - New Zealand's Premier Software Conference
         <p>Sarah Mei</p>
         <p class="byline">Chief Consultant @ <span class="hilite">DevMynd</span></p>
       </div>
+      <div class="col-sm-2 col-xs-6 speaker-box speaker-link-pg">
+        <div class="speaker-image-container one">
+          <img src="/images/speakers/2016/peter_gutmann.png" class="speaker2" />
+        </div>
+        <p>Peter Gutmann</p>
+        <p class="byline">Crypto turbonerd @ <span class="hilite">University of Auckland</span></p>
       <div class="col-sm-2 hidden-xs"></div>
     </div>
     <div class="row">

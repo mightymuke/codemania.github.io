@@ -343,6 +343,9 @@ a.hilite:hover {
 .speaker-link {
   cursor: hand;
 }
+.speaker-link-pg {
+  cursor: hand;
+}
 .byline {
   font-size: 0.7em;
   line-height: 1.3em;
