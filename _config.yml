@@ -4,7 +4,7 @@ baseurl:     /
 url:         http://localhost:1337
 source:      .
 destination: ./_site
-plugins:     ./_plugins
+plugins_dir: ./_plugins
 future:      true
 markdown:    kramdown
 permalink:   date
