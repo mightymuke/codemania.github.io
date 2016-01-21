@@ -138,13 +138,6 @@ title: Codemania 2016 - New Zealand's Premier Software Conference
       <div class="col-sm-2 hidden-xs"></div>
     </div>
     <div class="row">
-      <div class="col-sm-2 hidden-xs"></div>
-      <div class="col-sm-8 col-xs-12 center">
-      <p>... and more speakers to come ...</p>
-      </div>
-      <div class="col-sm-2 hidden-xs"></div>
-    </div>
-    <div class="row">
       <div class="col-sm-10 col-sm-offset-1 col-xs-12 titleImageContainer" id="about">
         <img src="/images/2016/title_about.png" class="titleImage" alt="About"/>
       </div>
