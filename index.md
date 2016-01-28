@@ -249,9 +249,14 @@ title: Codemania 2016 - New Zealand's Premier Software Conference
           </div>
         </div>
         <div class="row">
-          <div class="col-lg-12 col-sm-12 col-xs-12 cm-sponsor-box">
+          <div class="col-lg-6 col-sm-6 col-xs-12 cm-sponsor-box">
             <a target="_blank" href="https://octopus.com/">
               <img src="/images/sponsors/logo_octopus.png" />
+            </a>
+          </div>
+          <div class="col-lg-6 col-sm-6 col-xs-12 cm-sponsor-box">
+            <a target="_blank" href="http://www.aucklandnz.com/ateed/">
+              <img src="/images/sponsors/logo_ateed.png" height="75" />
             </a>
           </div>
         </div>
