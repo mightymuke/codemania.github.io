@@ -548,6 +548,9 @@ a.hilite:hover {
     height: auto;
     width: 200px;
   }
+  .speaker-row {
+    font-size: 14pt;
+  }
   .stars,
   .stars-deep {
     background-size: 200%;
