@@ -637,3 +637,14 @@ table.agenda-table tbody td p.speaker {
     visibility: hidden;
   }
 }
+@media (max-width: 768px) {
+  table.agenda-table tbody td p {
+    margin: 2px;
+  }
+  table.agenda-table tbody td p.speaker {
+    font-size: 12pt;
+  }
+  table.agenda-table tbody td p.topic {
+    font-size: 12px;
+  }
+}

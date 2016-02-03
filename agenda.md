@@ -3,22 +3,14 @@ layout: 2016site
 title: Agenda
 ---
 
-# Agenda
+# Codemania
 
 ### Friday 1st April, 2016
 
-## Codemania
-
 <table class="agenda-table">
-  <thead>
-    <tr>
-      <td width="50px">Time</td>
-      <td colspan="2">Thing</td>
-    </tr>
-  </thead>
    <tbody>
     <tr>
-      <td>08:45</td>
+      <td width="50px">08:45</td>
       <td colspan="2"><h3>Welcome</h3></td>
     </tr>
     <tr>
@@ -112,9 +104,9 @@ title: Agenda
   </tbody>
 </table>
 
-### Saturday 2nd - Sunday 3rd April, 2016
+# Codemania Conversations
 
-## Codemania Conversations
+### Saturday 2nd - Sunday 3rd April, 2016
 
 Codemania speakers are world-renowned technologists; global leaders in their respective fields... but you only get 40 minutes of them, right? Well this year - you have a unique opportunity to hang out with our superstar speakers and your fellow attendees to truly enjoy the full Codemania experience...
 
