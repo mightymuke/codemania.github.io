@@ -52,8 +52,14 @@ title: Agenda
     </tr>
     <tr>
       <td>12:00</td>
-      <td>Session 4a</td>
-      <td>Session 4b</td>
+      <td>
+        <p class="speaker">Pete Goodman</p>
+        <p class="topic">A topic about something</p>
+      </td>
+      <td>
+        <p class="speaker">Nicola Gaston</p>
+        <p class="topic">A topic about something</p>
+      </td>
     </tr>
     <tr>
       <td>12:45</td>
@@ -61,13 +67,25 @@ title: Agenda
     </tr>
     <tr>
       <td>13:45</td>
-      <td>Session 5a</td>
-      <td>Session 5b</td>
+      <td>
+        <p class="speaker">Ivan Towlson</p>
+        <p class="topic">A topic about something</p>
+      </td>
+      <td>
+        <p class="speaker">Duretti Hirpa</p>
+        <p class="topic">A topic about something</p>
+      </td>
     </tr>
     <tr>
       <td>14:30</td>
-      <td>Session 6a</td>
-      <td>Session 6b</td>
+      <td>
+        <p class="speaker">Amanda Laucher</p>
+        <p class="topic">A topic about something</p>
+      </td>
+      <td>
+        <p class="speaker">Sarah Mei</p>
+        <p class="topic">A topic about something</p>
+      </td>
     </tr>
     <tr>
       <td>15:15</td>
@@ -75,11 +93,17 @@ title: Agenda
     </tr>
     <tr>
       <td>15:45</td>
-      <td colspan="2">Session 7</td>
+      <td colspan="2">
+        <p class="speaker">Sam Newman</p>
+        <p class="topic">A topic about something</p>
+      </td>
     </tr>
     <tr>
       <td>16:35</td>
-      <td colspan="2">Session 8</td>
+      <td colspan="2">
+        <p class="speaker">Suz Hinton</p>
+        <p class="topic">A topic about something</p>
+      </td>
     </tr>
     <tr>
       <td>17:35</td>
