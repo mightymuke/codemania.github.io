@@ -5,19 +5,80 @@ title: Agenda
 
 # Agenda
 
-## Codemania
-
 ### Friday 1st April, 2016
 
-This is not a prank. We really are running New Zealand's premier software conference by developers for developers on April Fool's day. Lucky no-one here's superstitious, right?
+## Codemania
 
-The exact agenda will be available here in the near future, but you know what Codemania is: It's a full day of in-depth talks across the spectrum of platforms, languages and technologies.
-
-We don't care if it's web, mobile, front-end, back-end, cloud, .NET, JVM, OO or FP. If it's about improving the world through software, then our world-class line up of globally recognised speakers will be talking about it.
-
-## Codemania Conversations
+<table class="agenda-table">
+  <thead>
+    <tr>
+      <td width="50px">Time</td>
+      <td colspan="2">Thing</td>
+    </tr>
+  </thead>
+   <tbody>
+    <tr>
+      <td>08:45</td>
+      <td colspan="2"><h3>Welcome</h3></td>
+    </tr>
+    <tr>
+      <td>09:00</td>
+      <td colspan="2">Session 1</td>
+    </tr>
+    <tr>
+      <td>09:50</td>
+      <td colspan="2">Session 2</td>
+    </tr>
+    <tr>
+      <td>10:40</td>
+      <td colspan="2"><h3>Morning Tea Break</h3></td>
+    </tr>
+    <tr>
+      <td>11:15</td>
+      <td>Session 3a</td>
+      <td>Session 3b</td>
+    </tr>
+    <tr>
+      <td>12:00</td>
+      <td>Session 4a</td>
+      <td>Session 4b</td>
+    </tr>
+    <tr>
+      <td>12:45</td>
+      <td colspan="2"><h3>Lunch Break</h3></td>
+    </tr>
+    <tr>
+      <td>13:45</td>
+      <td>Session 5a</td>
+      <td>Session 5b</td>
+    </tr>
+    <tr>
+      <td>14:30</td>
+      <td>Session 6a</td>
+      <td>Session 6b</td>
+    </tr>
+    <tr>
+      <td>15:15</td>
+      <td colspan="2"><h3>Afternoon Tea Break</h3></td>
+    </tr>
+    <tr>
+      <td>15:45</td>
+      <td colspan="2">Session 7</td>
+    </tr>
+    <tr>
+      <td>16:35</td>
+      <td colspan="2">Session 8</td>
+    </tr>
+    <tr>
+      <td>17:35</td>
+      <td colspan="2">Closing Notes</td>
+    </tr>
+  </tbody>
+</table>
 
 ### Saturday 2nd - Sunday 3rd April, 2016
+
+## Codemania Conversations
 
 Codemania speakers are world-renowned technologists; global leaders in their respective fields... but you only get 40 minutes of them, right? Well this year - you have a unique opportunity to hang out with our superstar speakers and your fellow attendees to truly enjoy the full Codemania experience...
 

@@ -588,6 +588,16 @@ a.hilite:hover {
 .breathingSpace {
   margin-top: 45px;
 }
+table.agenda-table {
+  width: 100%;
+}
+table.agenda-table td {
+  text-align: center;
+  padding: 5px;
+}
+table.agenda-table tbody td {
+  border: dotted 1px white;
+}
 @media screen and (max-width: 48em) {
   #menu a {
     padding: 0;
