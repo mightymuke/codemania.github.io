@@ -23,11 +23,17 @@ title: Agenda
     </tr>
     <tr>
       <td>09:00</td>
-      <td colspan="2">Session 1</td>
+      <td colspan="2">
+        <p class="speaker">Gary Bernhardt</p>
+        <p class="topic">A topic about something</p>
+      </td>
     </tr>
     <tr>
       <td>09:50</td>
-      <td colspan="2">Session 2</td>
+      <td colspan="2">
+        <p class="speaker">Katherine Daniels</p>
+        <p class="topic">A topic about something</p>
+      </td>
     </tr>
     <tr>
       <td>10:40</td>
@@ -35,8 +41,14 @@ title: Agenda
     </tr>
     <tr>
       <td>11:15</td>
-      <td>Session 3a</td>
-      <td>Session 3b</td>
+      <td>
+        <p class="speaker">Andreia Gaita</p>
+        <p class="topic">A topic about something</p>
+      </td>
+      <td>
+        <p class="speaker">Peter Gutmann</p>
+        <p class="topic">A topic about something</p>
+      </td>
     </tr>
     <tr>
       <td>12:00</td>
