@@ -68,6 +68,5 @@ If people get completely stuck for lifts, let us know: [hello@codemania.co.nz](m
 
 ## Can't I stay at the hotel?
 
-If you got a 'weekender' ticket then yes, you're booked in. Otherwise - Sorry, you'll need to travel in both days.
-
+If you got a 'weekender' ticket then yes, you're booked in. Otherwise, you'll need to travel in both days.
 
