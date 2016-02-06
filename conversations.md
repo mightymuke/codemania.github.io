@@ -54,17 +54,17 @@ People who don't respect the CoC may be asked to leave.
 
 ## Where is it?
 
-Codemania Conversations is happening at the idyllic Waitakere Estate (http://www.waitakereestate.co.nz/). Set against a backdrop of unique rainforest and just 40 minutes from Auckland's CBD - all the fun of an un-conference, with a bit of luxury sprinkled on top!
+Codemania Conversations is happening at the idyllic [Waitakere Estate](http://www.waitakereestate.co.nz/). Set against a backdrop of unique rainforest and just 40 minutes from Auckland's CBD - all the fun of an un-conference, with a bit of luxury sprinkled on top!
 
 ## How can I get there?
 
-Unconferences are fun and collaberative! Make a new friend and organise a lift-share here: https://docs.google.com/spreadsheets/d/1bCF0P5pL8_U9nzpjGa6niFR9ebg8Omo8bsNW94D6XZA/edit?usp=sharing
+Unconferences are fun and collaberative! Make a new friend and [organise a lift-share](https://docs.google.com/spreadsheets/d/1bCF0P5pL8_U9nzpjGa6niFR9ebg8Omo8bsNW94D6XZA/edit?usp=sharing)
 
 If you have a car and are planning on driving, please add your name to the sheet; indicate where you're coming from, how many empty seats you have and when you're travelling (e.g. both mornings and evenings, or maybe just Saturday morning and Sunday evening)
 
 If you need a lift, add your name to a travelling car.
 
-If people get completely stuck for lifts, let us know: hello@codemania.co.nz - and we'll do our best to work something out!
+If people get completely stuck for lifts, let us know: [hello@codemania.co.nz](mailto:hello@codemania.co.nz) - and we'll do our best to work something out!
 
 ## Can't I stay at the hotel?
 
