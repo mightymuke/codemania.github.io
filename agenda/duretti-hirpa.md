@@ -5,6 +5,6 @@ speakerName: Duretti Hirpa
 speakerTwitter: duretti
 speakerBio: Bio goes here.
 speakerImage: 2016/duretti_hirpa.png
-talkTitle: Talk Title TBC
-talkBlurb: Coming Soon!
+talkTitle: Good APIs make Good UIs
+talkBlurb: More details coming soon!
 ---

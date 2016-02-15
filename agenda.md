@@ -39,7 +39,7 @@ title: Agenda
       <td>11:15</td>
       <td><a href="/agenda/andreia-gaita.html">
         <p class="speaker">Andreia Gaita</p>
-        <p class="topic">A topic about something</p></a>
+        <p class="topic">From 0 to open source - shipping the GitHub Extension for Visual Studio</p></a>
       </td>
       <td>
         <a href="/agenda/peter-gutmann.html">
@@ -78,7 +78,7 @@ title: Agenda
       <td>
         <a href="/agenda/duretti-hirpa.html">
         <p class="speaker">Duretti Hirpa</p>
-        <p class="topic">A topic about something</p>
+        <p class="topic">Good APIs make Good UIs</p>
         </a>
       </td>
     </tr>
