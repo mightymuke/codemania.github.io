@@ -657,4 +657,8 @@ table.agenda-table tbody td p.speaker {
   table.agenda-table tbody td p.topic {
     font-size: 12px;
   }
+  .blurb-speaker-image {
+    width: 140px;
+    margin-left: 10px;
+  }
 }
