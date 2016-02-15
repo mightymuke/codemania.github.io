@@ -27,7 +27,7 @@ title: Agenda
       <td colspan="2">
         <a href="/agenda/katherine-daniels.html">
         <p class="speaker">Katherine Daniels</p>
-        <p class="topic">A topic about something</p>
+        <p class="topic">Putting the Dev in Devops</p>
         </a>
       </td>
     </tr>
@@ -44,7 +44,7 @@ title: Agenda
       <td>
         <a href="/agenda/peter-gutmann.html">
         <p class="speaker">Peter Gutmann</p>
-        <p class="topic">A topic about something</p>
+        <p class="topic">Cyberwar before there was Cyber&#58; Hacking WWII Electronic Bomb Fuses</p>
         </a>
       </td>
     </tr>
