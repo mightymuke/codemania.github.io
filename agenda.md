@@ -72,7 +72,7 @@ title: Agenda
       <td>
         <a href="/agenda/ivan-towlson.html">
         <p class="speaker">Ivan Towlson</p>
-        <p class="topic">A topic about something</p>
+        <p class="topic">How I Learned to Stop Worrying and Love the Zygohistomorphic Prepromorphism</p>
         </a>
       </td>
       <td>
@@ -106,7 +106,7 @@ title: Agenda
       <td colspan="2">
         <a href="/agenda/sam-newman.html">
         <p class="speaker">Sam Newman</p>
-        <p class="topic">A topic about something</p>
+        <p class="topic">Deploying and Scaling Microservices</p>
         </a>
       </td>
     </tr>
@@ -115,7 +115,7 @@ title: Agenda
       <td colspan="2">
         <a href="/agenda/suz-hinton.html">
         <p class="speaker">Suz Hinton</p>
-        <p class="topic">A topic about something</p>
+        <p class="topic">Refactoring the Dinosaur</p>
         </a>
       </td>
     </tr>
