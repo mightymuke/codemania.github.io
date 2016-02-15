@@ -16,15 +16,19 @@ title: Agenda
     <tr>
       <td>09:00</td>
       <td colspan="2">
+        <a href="/agenda/gary-bernhardt.html">
         <p class="speaker">Gary Bernhardt</p>
         <p class="topic">A topic about something</p>
+        </a>
       </td>
     </tr>
     <tr>
       <td>09:50</td>
       <td colspan="2">
+        <a href="/agenda/katherine-daniels.html">
         <p class="speaker">Katherine Daniels</p>
         <p class="topic">A topic about something</p>
+        </a>
       </td>
     </tr>
     <tr>
@@ -33,24 +37,30 @@ title: Agenda
     </tr>
     <tr>
       <td>11:15</td>
-      <td>
+      <td><a href="/agenda/andreia-gaita.html">
         <p class="speaker">Andreia Gaita</p>
-        <p class="topic">A topic about something</p>
+        <p class="topic">A topic about something</p></a>
       </td>
       <td>
+        <a href="/agenda/peter-gutmann.html">
         <p class="speaker">Peter Gutmann</p>
         <p class="topic">A topic about something</p>
+        </a>
       </td>
     </tr>
     <tr>
       <td>12:00</td>
       <td>
+        <a href="/agenda/peter-goodman.html">
         <p class="speaker">Pete Goodman</p>
         <p class="topic">A topic about something</p>
+        </a>
       </td>
       <td>
+        <a href="/agenda/nicola-gaston.html">
         <p class="speaker">Nicola Gaston</p>
         <p class="topic">A topic about something</p>
+        </a>
       </td>
     </tr>
     <tr>
@@ -60,23 +70,31 @@ title: Agenda
     <tr>
       <td>13:45</td>
       <td>
+        <a href="/agenda/ivan-towlson.html">
         <p class="speaker">Ivan Towlson</p>
         <p class="topic">A topic about something</p>
+        </a>
       </td>
       <td>
+        <a href="/agenda/duretti-hirpa.html">
         <p class="speaker">Duretti Hirpa</p>
         <p class="topic">A topic about something</p>
+        </a>
       </td>
     </tr>
     <tr>
       <td>14:30</td>
       <td>
+        <a href="/agenda/amanda-laucher.html">
         <p class="speaker">Amanda Laucher</p>
         <p class="topic">A topic about something</p>
+        </a>
       </td>
       <td>
+        <a href="/agenda/sarah-mei.html">
         <p class="speaker">Sarah Mei</p>
         <p class="topic">A topic about something</p>
+        </a>
       </td>
     </tr>
     <tr>
@@ -86,15 +104,19 @@ title: Agenda
     <tr>
       <td>15:45</td>
       <td colspan="2">
+        <a href="/agenda/sam-newman.html">
         <p class="speaker">Sam Newman</p>
         <p class="topic">A topic about something</p>
+        </a>
       </td>
     </tr>
     <tr>
       <td>16:35</td>
       <td colspan="2">
+        <a href="/agenda/suz-hinton.html">
         <p class="speaker">Suz Hinton</p>
         <p class="topic">A topic about something</p>
+        </a>
       </td>
     </tr>
     <tr>
