@@ -18,7 +18,7 @@ title: Agenda
       <td colspan="2">
         <a href="/agenda/gary-bernhardt.html">
         <p class="speaker">Gary Bernhardt</p>
-        <p class="topic">A topic about something</p>
+        <p class="topic">New Zealand Native Spheniscidae</p>
         </a>
       </td>
     </tr>
@@ -53,13 +53,13 @@ title: Agenda
       <td>
         <a href="/agenda/peter-goodman.html">
         <p class="speaker">Pete Goodman</p>
-        <p class="topic">A topic about something</p>
+        <p class="topic">I'm a Creep: Pipipi Inverted Feeding Behaviours</p>
         </a>
       </td>
       <td>
         <a href="/agenda/nicola-gaston.html">
         <p class="speaker">Nicola Gaston</p>
-        <p class="topic">A topic about something</p>
+        <p class="topic">Who are you calling common?</p>
         </a>
       </td>
     </tr>
@@ -87,13 +87,13 @@ title: Agenda
       <td>
         <a href="/agenda/amanda-laucher.html">
         <p class="speaker">Amanda Laucher</p>
-        <p class="topic">A topic about something</p>
+        <p class="topic">I believe I can fly: Pīwauwau</p>
         </a>
       </td>
       <td>
         <a href="/agenda/sarah-mei.html">
         <p class="speaker">Sarah Mei</p>
-        <p class="topic">A topic about something</p>
+        <p class="topic">Pōpokotea: Messenger of the Gods</p>
         </a>
       </td>
     </tr>
