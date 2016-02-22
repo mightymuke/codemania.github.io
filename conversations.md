@@ -60,7 +60,7 @@ Codemania Conversations is happening at the idyllic [Waitakere Estate](http://ww
 
 ## How can I get there?
 
-Unconferences are fun and collaberative! Make a new friend and [organise a lift-share](https://docs.google.com/spreadsheets/d/1bCF0P5pL8_U9nzpjGa6niFR9ebg8Omo8bsNW94D6XZA/edit?usp=sharing)
+Unconferences are fun and collaborative! Make a new friend and [organise a lift-share](https://docs.google.com/spreadsheets/d/1bCF0P5pL8_U9nzpjGa6niFR9ebg8Omo8bsNW94D6XZA/edit?usp=sharing)
 
 If you have a car and are planning on driving, please add your name to the sheet; indicate where you're coming from, how many empty seats you have and when you're travelling (e.g. both mornings and evenings, or maybe just Saturday morning and Sunday evening)
 
