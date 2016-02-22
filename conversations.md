@@ -3,6 +3,8 @@ layout: 2016site
 title: Codemania Conversations FAQ
 ---
 
+{::options parse_block_html="true" /}
+<div id='conversations'>
 [What is it?](#what-is-it)
 
 [When is it?](#when-is-it)
@@ -34,7 +36,7 @@ Yes, we will have projectors, and maybe a few slides would help your session. Bu
 ## When is it?
 
 Saturday 2nd April
-08:30 - 18:00
+09:30 - 18:00
 
 Sunday 3rd April
 09:00 - 16:00
@@ -69,4 +71,4 @@ If people get completely stuck for lifts, let us know: [hello@codemania.co.nz](m
 ## Can't I stay at the hotel?
 
 If you got a 'weekender' ticket then yes, you're booked in. Otherwise, you'll need to travel in both days.
-
+</div>
