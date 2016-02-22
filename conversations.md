@@ -48,7 +48,7 @@ Yes! All 12 speakers have been invited to participate in Conversations, and we a
 
 ## What are the rules?
 
-As a Codemania event, the Code of Conduct applies: We expect you to Be Nice at all times! (http://codemania.io/be-nice.html)
+As a Codemania event, the Code of Conduct applies: We expect you to [Be Nice](http://codemania.io/be-nice.html) at all times!
 
 It's pretty simple really - everyone has something to contribute to the conversation, and we must create an environment where everyone is respected and can be heard.
 
