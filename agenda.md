@@ -53,13 +53,13 @@ title: Agenda
       <td>
         <a href="/agenda/peter-goodman.html">
         <p class="speaker">Pete Goodman</p>
-        <p class="topic">I'm a Creep: Pipipi Inverted Feeding Behaviours</p>
+        <p class="topic">DevOps: Learning how to go fast without tripping over the cables</p>
         </a>
       </td>
       <td>
         <a href="/agenda/nicola-gaston.html">
         <p class="speaker">Nicola Gaston</p>
-        <p class="topic">Who are you calling common?</p>
+        <p class="topic">The limits of reductionism</p>
         </a>
       </td>
     </tr>
@@ -93,7 +93,7 @@ title: Agenda
       <td>
         <a href="/agenda/sarah-mei.html">
         <p class="speaker">Sarah Mei</p>
-        <p class="topic">Pōpokotea: Messenger of the Gods</p>
+        <p class="topic">Factory, Workshop, Stage</p>
         </a>
       </td>
     </tr>

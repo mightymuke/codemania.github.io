@@ -5,6 +5,10 @@ speakerName: Peter Goodman
 speakerTwitter: petegoo
 speakerBio: Developer in Auckland building Software for some folks (Pushpay). Originally from N. Ireland
 speakerImage: 2016/peter_goodman.png
-talkTitle: I'm a Creep (Pipipi Inverted Feeding Behaviours)
-talkBlurb: The pipipi (Mohoua novaeseelandiae), also known as brown creeper or New Zealand creeper, is a small passerine bird endemic to the South Island of New Zealand. They are known for their strong legs and toes for hanging upside down while feeding. Join Peter as he explores the joys of creeper inverted feeding.
+talkTitle: DevOps&#58; Learning how to go fast without tripping over the cables
+talkBlurb: 
 ---
+
+When the plan is to do more, and do it more often, the new DevOps religion can help you break free from those miserable shackles of yesterday's death march. But how can you move fast without turning things into a giant game of drunken bullrush? 
+
+Since joining Pushpay I can't really remember a slow day but neither can I remember a day when I felt like things were out of control. We'll discuss some of the things we've learned and how we manage to do it without tripping over the cables.
