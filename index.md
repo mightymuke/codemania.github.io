@@ -232,17 +232,22 @@ title: Codemania 2016 - New Zealand's Premier Software Conference
     <div class="row sponsor-row">
       <div class="col-sm-10 col-sm-offset-1 col-xs-12">
         <div class="row">
-          <div class="col-lg-4 col-sm-6 col-xs-12 cm-sponsor-box">
-            <a target="_blank" href="http://pushpay.com">
-              <img src="/images/sponsors/logo_pushpay.png" />
+          <div class="col-lg-6 col-sm-6 col-xs-12 cm-sponsor-box">
+            <a target="_blank" href="http://www.fraedom.com">
+              <img src="/images/sponsors/logo_fraedom.png" />
             </a>
           </div>
-          <div class="col-lg-4 col-sm-6 col-xs-12 cm-sponsor-box">
+          <div class="col-lg-6 col-sm-6 col-xs-12 cm-sponsor-box">
             <a target="_blank" href="http://www.microsoft.co.nz">
               <img src="/images/sponsors/logo_microsoft.png" />
             </a>
           </div>
-          <div class="col-lg-4 col-sm-6 col-xs-12 cm-sponsor-box">
+          <div class="col-lg-6 col-sm-6 col-xs-12 cm-sponsor-box">
+            <a target="_blank" href="http://pushpay.com">
+              <img src="/images/sponsors/logo_pushpay.png" />
+            </a>
+          </div>
+          <div class="col-lg-6 col-sm-6 col-xs-12 cm-sponsor-box">
             <a target="_blank" href="http://www.trademe.co.nz">
               <img src="/images/sponsors/logo_trademe.png" />
             </a>
@@ -250,17 +255,27 @@ title: Codemania 2016 - New Zealand's Premier Software Conference
         </div>
         <div class="row">
           <div class="col-lg-6 col-sm-6 col-xs-12 cm-sponsor-box">
-            <a target="_blank" href="https://octopus.com/">
-              <img src="/images/sponsors/logo_octopus.png" />
-            </a>
-          </div>
-          <div class="col-lg-6 col-sm-6 col-xs-12 cm-sponsor-box">
             <a target="_blank" href="http://www.aucklandnz.com/ateed/">
               <img src="/images/sponsors/logo_ateed.png" height="75" />
             </a>
           </div>
+          <div class="col-lg-6 col-sm-6 col-xs-12 cm-sponsor-box">
+            <a target="_blank" href="https://octopus.com/">
+              <img src="/images/sponsors/logo_octopus.png" />
+            </a>
+          </div>
         </div>
         <div class="row">
+          <div class="col-lg-6 col-sm-6 col-xs-12 cm-sponsor-box">
+            <a target="_blank" href="https://serato.com/">
+              <img src="/images/sponsors/logo_serato.png" />
+            </a>
+          </div>
+          <div class="col-lg-6 col-sm-6 col-xs-12 cm-sponsor-box">
+            <a target="_blank" href="http://www.vodafone.co.nz/">
+              <img src="/images/sponsors/logo_vodafone.png" />
+            </a>
+          </div>
           <div class="col-lg-12 col-sm-12 col-xs-12 cm-sponsor-box">
             <a target="_blank" href="http://www.raygun.io">
               <img src="/images/sponsors/logo_raygun.png" />
@@ -277,7 +292,7 @@ title: Codemania 2016 - New Zealand's Premier Software Conference
     </div>
     <div class="row sponsor-row">
       <div class="row">
-        <div class="col-lg-4 col-sm-6 col-xs-12 cm-sponsor-box">
+        <div class="col-lg-12 col-sm-12 col-xs-12 cm-sponsor-box">
           <a target="_blank" href="http://yowconference.com.au/">
             <img src="/images/sponsors/logo_yow.png" />
           </a>
