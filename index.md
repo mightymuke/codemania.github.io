@@ -56,7 +56,7 @@ title: Codemania 2016 - New Zealand's Premier Software Conference
           <img src="/images/speakers/2016/gary_bernhardt.png" class="speaker2" />
         </div>
         <p>Gary Bernhardt</p>
-        <p class="byline">Guru @ <span class="hilite">Destroy All Software</span></p>
+        <p class="byline">Programmer @ <span class="hilite">Destroy All Software</span></p>
       </div>
       <div class="col-sm-2 col-xs-6 speaker-box speaker-link" id="sh4na">
         <div class="speaker-image-container two">
