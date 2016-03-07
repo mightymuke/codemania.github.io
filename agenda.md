@@ -18,7 +18,7 @@ title: Agenda
       <td colspan="2">
         <a href="/agenda/gary-bernhardt.html">
         <p class="speaker">Gary Bernhardt</p>
-        <p class="topic">New Zealand Native Spheniscidae</p>
+        <p class="topic">Keynote: Reproducibility</p>
         </a>
       </td>
     </tr>
@@ -27,7 +27,7 @@ title: Agenda
       <td colspan="2">
         <a href="/agenda/katherine-daniels.html">
         <p class="speaker">Katherine Daniels</p>
-        <p class="topic">Putting the Dev in Devops</p>
+        <p class="topic">Keynote: Putting the Dev in Devops</p>
         </a>
       </td>
     </tr>
@@ -106,7 +106,7 @@ title: Agenda
       <td colspan="2">
         <a href="/agenda/sam-newman.html">
         <p class="speaker">Sam Newman</p>
-        <p class="topic">Deploying and Scaling Microservices</p>
+        <p class="topic">Locknote: Deploying and Scaling Microservices</p>
         </a>
       </td>
     </tr>
@@ -115,7 +115,7 @@ title: Agenda
       <td colspan="2">
         <a href="/agenda/suz-hinton.html">
         <p class="speaker">Suz Hinton</p>
-        <p class="topic">Refactoring the Dinosaur</p>
+        <p class="topic">Locknote: Refactoring the Dinosaur</p>
         </a>
       </td>
     </tr>
