@@ -17,7 +17,7 @@ title: Codemania Conversations FAQ
 
 [How can I get there?](#how-can-i-get-there)
 
-[Can't I stay at the hotel?](cant-i-stay-at-the-hotel)
+[Can't I stay at the hotel?](#cant-i-stay-at-the-hotel)
 
 
 ## What is it?
