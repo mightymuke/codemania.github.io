@@ -87,7 +87,7 @@ title: Agenda
       <td>
         <a href="/agenda/amanda-laucher.html">
         <p class="speaker">Amanda Laucher</p>
-        <p class="topic">I believe I can fly: Pīwauwau</p>
+        <p class="topic">Property Based Testing - Shrinking Risk In Your Code</p>
         </a>
       </td>
       <td>
