@@ -39,7 +39,7 @@ Saturday 2nd April
 09:30 - 18:00
 
 Sunday 3rd April
-09:00 - 16:00
+09:00 - 17:00
 
 ## Will the Codemania speakers be there?
 
