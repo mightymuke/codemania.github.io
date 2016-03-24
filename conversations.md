@@ -3,14 +3,12 @@ layout: 2016site
 title: Codemania Conversations FAQ
 ---
 
-
 {::options parse_block_html="true" /}
 
-<div id='conversations'>
 # Codemania Conversations
-## in association with [Pushpay](https://jobs.pushpay.com/)
+# in association with [Pushpay](https://jobs.pushpay.com/)
 
-
+<div id='conversations'>
 [What is it?](#what-is-it)
 
 [When is it?](#when-is-it)
