@@ -37,15 +37,15 @@ title: Agenda
     </tr>
     <tr>
       <td>11:15</td>
-      <td><a href="/agenda/andreia-gaita.html">
-        <p class="speaker">Andreia Gaita</p>
-        <p class="topic">From 0 to open source - shipping the GitHub Extension for Visual Studio</p></a>
-      </td>
       <td>
         <a href="/agenda/peter-gutmann.html">
         <p class="speaker">Peter Gutmann</p>
         <p class="topic">Cyberwar before there was Cyber&#58; Hacking WWII Electronic Bomb Fuses</p>
         </a>
+      </td>
+      <td><a href="/agenda/andreia-gaita.html">
+        <p class="speaker">Andreia Gaita</p>
+        <p class="topic">From 0 to open source - shipping the GitHub Extension for Visual Studio</p></a>
       </td>
     </tr>
     <tr>
@@ -70,15 +70,15 @@ title: Agenda
     <tr>
       <td>13:45</td>
       <td>
-        <a href="/agenda/ivan-towlson.html">
-        <p class="speaker">Ivan Towlson</p>
-        <p class="topic">How I Learned to Stop Worrying and Love the Zygohistomorphic Prepromorphism</p>
-        </a>
-      </td>
-      <td>
         <a href="/agenda/duretti-hirpa.html">
         <p class="speaker">Duretti Hirpa</p>
         <p class="topic">Good APIs make Good UIs</p>
+        </a>
+      </td>
+      <td>
+        <a href="/agenda/ivan-towlson.html">
+        <p class="speaker">Ivan Towlson</p>
+        <p class="topic">How I Learned to Stop Worrying and Love the Zygohistomorphic Prepromorphism</p>
         </a>
       </td>
     </tr>
