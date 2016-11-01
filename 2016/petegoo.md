@@ -1,5 +1,5 @@
 ---
-layout: speaker2016
+layout: speaker
 title: Peter Goodman
 speakerName: Peter Goodman
 speakerTwitter: petegoo

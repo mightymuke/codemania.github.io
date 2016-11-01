@@ -1,5 +1,5 @@
 ---
-layout: speaker2016
+layout: speaker
 title: Amanda Laucher
 speakerName: Amanda Laucher
 speakerTwitter: pandamonial

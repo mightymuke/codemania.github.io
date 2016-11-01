@@ -1,5 +1,5 @@
 ---
-layout: speaker2016
+layout: speaker
 title: Gary Bernhardt
 speakerName: Gary Bernhardt
 speakerTwitter: garybernhardt

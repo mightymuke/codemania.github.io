@@ -1,7 +1,8 @@
 ---
-layout: speaker2016
+layout: speaker
 title: Peter Gutmann
 speakerName: Peter Gutmann
+speakerTwitter: peter-gutmann
 speakerBio: Bio goes here.
 speakerImage: 2016/peter_gutmann.png
 talkTitle: Cyberwar before there was Cyber&#58; Hacking WWII Electronic Bomb Fuses

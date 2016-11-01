@@ -1,5 +1,5 @@
 ---
-layout: speaker2016
+layout: speaker
 title: Suz Hinton
 speakerName: Suz Hinton
 speakerTwitter: noopkat

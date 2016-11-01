@@ -1,5 +1,5 @@
 ---
-layout: speaker2016
+layout: speaker
 title: Duretti Hirpa
 speakerName: Duretti Hirpa
 speakerTwitter: duretti

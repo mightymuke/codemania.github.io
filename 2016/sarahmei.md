@@ -1,5 +1,5 @@
 ---
-layout: speaker2016
+layout: speaker
 title: Sarah Mei
 speakerName: Sarah Mei
 speakerTwitter: sarahmei

@@ -1,5 +1,5 @@
 ---
-layout: speaker2016
+layout: speaker
 title: Ivan Towlson
 speakerName: Ivan Towlson
 speakerTwitter: ppog_penguin

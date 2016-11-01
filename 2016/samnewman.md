@@ -1,5 +1,5 @@
 ---
-layout: speaker2016
+layout: speaker
 speakerName: Sam Newman
 title: Sam Newman
 speakerTwitter: samnewman

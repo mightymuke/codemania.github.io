@@ -1,5 +1,5 @@
 ---
-layout: speaker2016
+layout: speaker
 speakerName: Katherine Daniels
 title: Katherine Daniels
 speakerTwitter: beerops

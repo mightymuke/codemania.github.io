@@ -1,5 +1,5 @@
 ---
-layout: speaker2016
+layout: speaker
 title: Andreia Gaita
 speakerName: Andreia Gaita
 speakerTwitter: sh4na

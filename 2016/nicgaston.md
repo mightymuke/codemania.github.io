@@ -1,5 +1,5 @@
 ---
-layout: speaker2016
+layout: speaker
 title: Nicola Gaston
 speakerName: Nicola Gaston
 speakerTwitter: nicgaston
